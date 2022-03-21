@@ -1,0 +1,113 @@
+,coef,std err,t,P>|t|,[0.025,0.975]
+treatment_env,   34.7162,   12.632,    2.748, 0.006,    9.855,   59.578
+treatment_gov,   48.0227,   13.102,    3.665, 0.000,   22.236,   73.810
+ethnicity_BAME,    3.7855,   10.557,    0.359, 0.720,  -16.991,   24.562
+gender_Male,    8.6003,   13.467,    0.639, 0.524,  -17.904,   35.105
+age_bin_Older,    3.1031,   12.503,    0.248, 0.804,  -21.504,   27.711
+education_bin_Higher Level Education,   14.4417,    9.175,    1.574, 0.117,   -3.615,   32.499
+employment_bin_Not employed,   10.4272,    9.953,    1.048, 0.296,   -9.162,   30.016
+income_bin_Higher Income,    0.6445,   11.298,    0.057, 0.955,  -21.592,   22.881
+family_size_bin_Have dependents,    0.7972,   11.641,    0.068, 0.945,  -22.113,   23.708
+emotional_attachment_high,   19.6480,   12.090,    1.625, 0.105,   -4.147,   43.444
+treatment_env x gender_Male,  -14.5419,   21.547,   -0.675, 0.500,  -56.948,   27.864
+treatment_gov x gender_Male,  -26.8446,   20.591,   -1.304, 0.193,  -67.370,   13.681
+phone_cost,    0.1093,    0.014,    7.684, 0.000,    0.081,    0.137
+,coef,std err,t,P>|t|,[0.025,0.975]
+treatment_env,   45.0555,   12.807,    3.518, 0.001,   19.851,   70.260
+treatment_gov,   51.2065,   13.163,    3.890, 0.000,   25.301,   77.112
+ethnicity_BAME,   31.1522,   15.756,    1.977, 0.049,    0.142,   62.163
+gender_Male,   -2.4616,    8.904,   -0.276, 0.782,  -19.986,   15.063
+age_bin_Older,   -1.3656,   12.573,   -0.109, 0.914,  -26.110,   23.379
+education_bin_Higher Level Education,   14.4210,    9.048,    1.594, 0.112,   -3.387,   32.229
+employment_bin_Not employed,   10.0697,    9.745,    1.033, 0.302,   -9.109,   29.248
+income_bin_Higher Income,    0.9742,   11.198,    0.087, 0.931,  -21.065,   23.014
+family_size_bin_Have dependents,    3.7291,   11.552,    0.323, 0.747,  -19.006,   26.464
+emotional_attachment_high,   18.5470,   11.981,    1.548, 0.123,   -5.033,   42.127
+treatment_env x ethnicity_BAME,  -46.0536,   21.525,   -2.140, 0.033,  -88.418,   -3.689
+treatment_gov x ethnicity_BAME,  -40.9354,   21.232,   -1.928, 0.055,  -82.722,    0.851
+phone_cost,    0.1034,    0.014,    7.194, 0.000,    0.075,    0.132
+,coef,std err,t,P>|t|,[0.025,0.975]
+treatment_env,   25.8774,   11.630,    2.225, 0.027,    2.988,   48.767
+treatment_gov,   41.8541,   11.508,    3.637, 0.000,   19.206,   64.503
+ethnicity_BAME,    2.1707,   10.576,    0.205, 0.838,  -18.645,   22.987
+gender_Male,   -2.7879,    8.990,   -0.310, 0.757,  -20.480,   14.905
+age_bin_Older,    4.1530,   19.049,    0.218, 0.828,  -33.337,   41.643
+education_bin_Higher Level Education,   15.0103,    9.149,    1.641, 0.102,   -2.995,   33.016
+employment_bin_Not employed,   11.3333,    9.793,    1.157, 0.248,   -7.941,   30.607
+income_bin_Higher Income,    1.0375,   11.294,    0.092, 0.927,  -21.190,   23.265
+family_size_bin_Have dependents,    3.6692,   11.666,    0.315, 0.753,  -19.291,   26.629
+emotional_attachment_high,   21.2160,   12.089,    1.755, 0.080,   -2.578,   45.010
+treatment_env x age_bin_Older,   17.3818,   26.435,    0.658, 0.511,  -34.645,   69.409
+treatment_gov x age_bin_Older,  -22.4912,   27.374,   -0.822, 0.412,  -76.366,   31.383
+phone_cost,    0.1134,    0.014,    7.981, 0.000,    0.085,    0.141
+,coef,std err,t,P>|t|,[0.025,0.975]
+treatment_env,   21.1908,   11.903,    1.780, 0.076,   -2.235,   44.617
+treatment_gov,   44.4013,   11.915,    3.727, 0.000,   20.952,   67.851
+ethnicity_BAME,    2.6208,   10.428,    0.251, 0.802,  -17.903,   23.144
+gender_Male,   -3.5879,    8.910,   -0.403, 0.687,  -21.124,   13.948
+age_bin_Older,    4.1314,   12.397,    0.333, 0.739,  -20.267,   28.530
+education_bin_Higher Level Education,   18.0587,    9.177,    1.968, 0.050,   -0.003,   36.120
+employment_bin_Not employed,   13.5051,    9.758,    1.384, 0.167,   -5.700,   32.711
+income_bin_Higher Income,   -0.9613,   17.174,   -0.056, 0.955,  -34.761,   32.838
+family_size_bin_Have dependents,    0.9922,   11.547,    0.086, 0.932,  -21.734,   23.718
+emotional_attachment_high,   20.0496,   11.956,    1.677, 0.095,   -3.481,   43.580
+treatment_env x income_bin_Higher Income,   33.8450,   24.290,    1.393, 0.165,  -13.961,   81.651
+treatment_gov x income_bin_Higher Income,  -25.2275,   24.449,   -1.032, 0.303,  -73.347,   22.892
+phone_cost,    0.1114,    0.014,    7.864, 0.000,    0.084,    0.139
+,coef,std err,t,P>|t|,[0.025,0.975]
+treatment_env,   57.0093,   12.507,    4.558, 0.000,   32.394,   81.625
+treatment_gov,   45.9323,   12.248,    3.750, 0.000,   21.826,   70.038
+ethnicity_BAME,    3.3026,   10.289,    0.321, 0.748,  -16.948,   23.553
+gender_Male,   -6.5490,    8.828,   -0.742, 0.459,  -23.924,   10.826
+age_bin_Older,    3.4625,   12.235,    0.283, 0.777,  -20.618,   27.543
+education_bin_Higher Level Education,   13.3223,    8.930,    1.492, 0.137,   -4.253,   30.897
+employment_bin_Not employed,   44.0713,   13.958,    3.157, 0.002,   16.600,   71.542
+income_bin_Higher Income,   -1.1808,   11.087,   -0.107, 0.915,  -23.002,   20.640
+family_size_bin_Have dependents,    2.1326,   11.384,    0.187, 0.852,  -20.273,   24.538
+emotional_attachment_high,   14.9222,   11.897,    1.254, 0.211,   -8.493,   38.337
+treatment_env x employment_bin_Not employed,  -77.5866,   21.143,   -3.670, 0.000, -119.198,  -35.975
+treatment_gov x employment_bin_Not employed,  -30.3086,   21.249,   -1.426, 0.155,  -72.128,   11.511
+phone_cost,    0.1045,    0.014,    7.456, 0.000,    0.077,    0.132
+,coef,std err,t,P>|t|,[0.025,0.975]
+treatment_env,   26.9774,   12.059,    2.237, 0.026,    3.244,   50.711
+treatment_gov,   37.5056,   12.125,    3.093, 0.002,   13.642,   61.369
+ethnicity_BAME,    3.1533,   10.521,    0.300, 0.765,  -17.553,   23.859
+gender_Male,   -3.1030,    9.009,   -0.344, 0.731,  -20.834,   14.628
+age_bin_Older,    4.7043,   12.522,    0.376, 0.707,  -19.941,   29.350
+education_bin_Higher Level Education,   16.3200,    9.141,    1.785, 0.075,   -1.670,   34.310
+employment_bin_Not employed,   13.0212,    9.804,    1.328, 0.185,   -6.274,   32.317
+income_bin_Higher Income,    1.9461,   11.382,    0.171, 0.864,  -20.455,   24.347
+family_size_bin_Have dependents,   -2.7736,   18.439,   -0.150, 0.881,  -39.064,   33.517
+emotional_attachment_high,   20.3475,   12.073,    1.685, 0.093,   -3.413,   44.108
+treatment_env x family_size_bin_Have dependents,   11.4073,   24.222,    0.471, 0.638,  -36.265,   59.080
+treatment_gov x family_size_bin_Have dependents,    2.2714,   24.199,    0.094, 0.925,  -45.356,   49.899
+phone_cost,    0.1126,    0.014,    7.882, 0.000,    0.084,    0.141
+,coef,std err,t,P>|t|,[0.025,0.975]
+treatment_env,   43.1980,   13.682,    3.157, 0.002,   16.270,   70.126
+treatment_gov,   53.2791,   13.601,    3.917, 0.000,   26.510,   80.048
+ethnicity_BAME,    2.9629,   10.447,    0.284, 0.777,  -17.597,   23.523
+gender_Male,   -5.6609,    8.978,   -0.631, 0.529,  -23.331,   12.009
+age_bin_Older,    1.6253,   12.451,    0.131, 0.896,  -22.880,   26.131
+education_bin_Higher Level Education,   37.4209,   13.714,    2.729, 0.007,   10.431,   64.411
+employment_bin_Not employed,    9.8176,    9.825,    0.999, 0.318,   -9.518,   29.154
+income_bin_Higher Income,   -1.7843,   11.398,   -0.157, 0.876,  -24.217,   20.648
+family_size_bin_Have dependents,    2.0097,   11.557,    0.174, 0.862,  -20.736,   24.756
+emotional_attachment_high,   19.6389,   11.987,    1.638, 0.102,   -3.952,   43.230
+treatment_env x education_bin_Higher Level Education,  -34.3595,   20.931,   -1.642, 0.102,  -75.554,    6.835
+treatment_gov x education_bin_Higher Level Education,  -38.5105,   20.562,   -1.873, 0.062,  -78.979,    1.958
+phone_cost,    0.1062,    0.014,    7.475, 0.000,    0.078,    0.134
+,coef,std err,t,P>|t|,[0.025,0.975]
+treatment_env,   32.0648,   11.251,    2.850, 0.005,    9.921,   54.209
+treatment_gov,   42.2380,   11.338,    3.725, 0.000,   19.923,   64.553
+ethnicity_BAME,    3.2265,   10.511,    0.307, 0.759,  -17.460,   23.912
+gender_Male,   -3.7826,    8.981,   -0.421, 0.674,  -21.457,   13.892
+age_bin_Older,    4.5173,   12.519,    0.361, 0.718,  -20.121,   29.156
+education_bin_Higher Level Education,   15.4703,    9.108,    1.699, 0.090,   -2.455,   33.395
+employment_bin_Not employed,   11.9771,    9.887,    1.211, 0.227,   -7.482,   31.436
+income_bin_Higher Income,    1.0678,   11.302,    0.094, 0.925,  -21.177,   23.312
+family_size_bin_Have dependents,    1.8668,   11.646,    0.160, 0.873,  -21.054,   24.788
+emotional_attachment_high,   15.4663,    8.377,    1.846, 0.066,   -1.020,   31.953
+emotional_attachment_high,   15.4663,    8.377,    1.846, 0.066,   -1.020,   31.953
+treatment_env x emotional_attachment_high,  -12.0695,   28.047,   -0.430, 0.667,  -67.269,   43.130
+treatment_gov x emotional_attachment_high,  -25.7866,   26.251,   -0.982, 0.327,  -77.452,   25.879
+phone_cost,    0.1099,    0.014,    7.748, 0.000,    0.082,    0.138

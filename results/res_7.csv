@@ -1,0 +1,28 @@
+,coef,std err,t,P>|t|,[0.025,0.975]
+treatment_env,   73.6462,   20.887,    3.526, 0.000,   32.529,  114.763
+treatment_gov,   86.8681,   20.327,    4.273, 0.000,   46.853,  126.883
+ethnicity_BAME,   26.8515,   16.921,    1.587, 0.114,   -6.458,   60.161
+gender_Male,   -2.0321,   14.131,   -0.144, 0.886,  -29.849,   25.785
+age_bin_Older,    7.4839,   20.697,    0.362, 0.718,  -33.259,   48.227
+education_bin_Higher Level Education,   40.4308,   15.043,    2.688, 0.008,   10.819,   70.043
+employment_bin_Not employed,   33.8711,   15.419,    2.197, 0.029,    3.518,   64.224
+income_bin_Higher Income,   -6.6427,   19.050,   -0.349, 0.728,  -44.144,   30.858
+family_size_bin_Have dependents,  -20.0869,   19.631,   -1.023, 0.307,  -58.731,   18.557
+emotional_attachment_high,   13.3611,   17.581,    0.760, 0.448,  -21.247,   47.970
+treatment_env x ethnicity_BAME,  -33.0909,   24.636,   -1.343, 0.180,  -81.589,   15.407
+treatment_env x gender_Male,   -6.9701,   22.147,   -0.315, 0.753,  -50.567,   36.627
+treatment_env x age_bin_Older,   -4.8604,   29.612,   -0.164, 0.870,  -63.152,   53.432
+treatment_env x education_bin_Higher Level Education,  -51.3427,   22.409,   -2.291, 0.023,  -95.456,   -7.230
+treatment_env x employment_bin_Not employed,  -65.7005,   24.098,   -2.726, 0.007, -113.138,  -18.263
+treatment_env x income_bin_Higher Income,   19.1719,   27.627,    0.694, 0.488,  -35.212,   73.556
+treatment_env x family_size_bin_Have dependents,   30.6371,   27.310,    1.122, 0.263,  -23.123,   84.398
+treatment_env x emotional_attachment_high,    1.3547,   30.461,    0.044, 0.965,  -58.610,   61.319
+treatment_gov x ethnicity_BAME,  -44.4596,   24.440,   -1.819, 0.070,  -92.571,    3.652
+treatment_gov x gender_Male,  -13.0441,   21.269,   -0.613, 0.540,  -54.913,   28.825
+treatment_gov x age_bin_Older,  -37.1031,   32.406,   -1.145, 0.253, -100.895,   26.689
+treatment_gov x education_bin_Higher Level Education,  -42.3407,   22.411,   -1.889, 0.060,  -86.458,    1.777
+treatment_gov x employment_bin_Not employed,  -32.6302,   24.551,   -1.329, 0.185,  -80.960,   15.699
+treatment_gov x income_bin_Higher Income,  -19.3916,   27.896,   -0.695, 0.488,  -74.305,   35.522
+treatment_gov x family_size_bin_Have dependents,   38.9066,   28.999,    1.342, 0.181,  -18.178,   95.992
+treatment_gov x emotional_attachment_high,   -1.6375,   27.644,   -0.059, 0.953,  -56.056,   52.781
+phone_cost,    0.0927,    0.015,    6.144, 0.000,    0.063,    0.122
