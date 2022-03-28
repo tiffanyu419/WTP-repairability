@@ -7,8 +7,8 @@ The survey that was sent out is named 'WTP Repairability - Survey.pdf' in the re
 
 
 contributors:
-Tiffany Yu
-Mécia Miguel
-Wenze Guan
-Euan Ross
+Tiffany Yu,
+Mécia Miguel,
+Wenze Guan,
+Euan Ross,
 Urja Thakrar
