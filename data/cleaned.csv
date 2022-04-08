@@ -1,311 +1,306 @@
-phone_ownership,phone_ownership_response,phone_cost,state_phone,state_phone_response,brand_phone,brand_phone_response,gender,gender_response,age,ethnicity,education,education_response,employment_status,income,family_size,emotional_attachment,treatment,WTP,WTP_response,protest_flag,WTP_per
-Bought on contract - fully paid,,903,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,In full-time education,"Less than £10,000",None,low,env,142.0,,False,0.157
-Bought outright,,777,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",2,low,env,201.0,,False,0.259
-Bought outright,,701,Brand New,,"Other, please specify",OnePlus,Male,,25 - 34,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,gov,150.0,,False,0.214
-Bought on contract - fully paid,,614,Brand New,,Samsung (Galaxy),,Male,,18 - 24,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,low,cont,50.0,,False,0.081
-Bought outright,,736,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In part-time employment,"£30,000 to £39,999",2,high,gov,223.0,,False,0.303
-Bought outright,,850,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Self employed,"Less than £10,000",None,low,env,199.0,,False,0.234
-Bought outright,,602,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In part-time employment,"£10,000 to £19,999",None,low,cont,160.0,,False,0.266
-Bought outright,,800,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,Not sure,None,high,cont,125.0,,False,0.156
-Bought outright,,607,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",None,low,env,85.0,,False,0.14
-Bought outright,,514,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,In full-time education,Not sure,None,low,gov,0.0,It should be the producer's responsibility to pay,True,0.0
-Bought on contract - fully paid,,837,Brand New,,Samsung (Galaxy),,Male,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,Not sure,None,low,cont,110.0,,False,0.131
-Bought outright,,506,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,In full-time education,Not sure,None,high,gov,55.0,,False,0.109
-Bought outright,,300,Brand New,,Google (Pixel),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",None,low,env,61.0,,False,0.203
-Bought outright,,999,Brand New,,Samsung (Galaxy),,Female,,25 - 34,BAME,Undergraduate degree,,In full-time education,"£30,000 to £39,999",None,low,cont,101.0,,False,0.101
-Bought outright,,802,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Master's degree,,Not in employment,"Less than £10,000",1,low,gov,116.0,,False,0.145
-Bought outright,,426,Brand New,,Samsung (Galaxy),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",None,low,gov,100.0,,False,0.235
-Bought outright,,196,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,Not in employment,"Less than £10,000",None,low,env,403.0,,False,2.056
-Bought outright,,1100,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,high,cont,90.0,,False,0.082
-Bought outright,,352,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time education,"£40,000 to £49,999",None,low,cont,50.0,,False,0.142
-Bought outright,,399,Brand New,,"Other, please specify",OnePlus,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,env,100.0,,False,0.251
-Bought outright,,544,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",None,low,env,100.0,,False,0.184
-Bought on contract - fully paid,,1049,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,Not in employment,"£10,000 to £19,999",2,high,cont,51.0,,False,0.049
-Bought outright,,405,Brand New,,"Other, please specify",Huawei,Female,,18 - 24,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,gov,82.0,,False,0.202
-Bought outright,,597,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,In full-time education,"Less than £10,000",None,low,cont,256.0,,False,0.429
-Bought outright,,935,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,"Less than £10,000",None,low,gov,98.0,,False,0.105
-Bought on contract - fully paid,,967,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,"Less than £10,000",2,low,env,198.0,,False,0.205
-Bought outright,,908,Brand New,,"Other, please specify",Huawei,Female,,18 - 24,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,gov,100.0,,False,0.11
-Bought outright,,573,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Undergraduate degree,,In full-time education,Not sure,2,low,gov,201.0,,False,0.351
-Bought outright,,710,Brand New,,Apple (iPhone),,Male,,45 - 54,White,Master's degree,,In full-time education,Not sure,None,low,env,46.0,,False,0.065
-"Other, please specify",Second hand from parents,109,"Other, please specify",from Family,Apple (iPhone),,Male,,25 - 34,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,cont,111.0,,False,1.018
-Bought outright,,602,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,Not sure,4,low,env,60.0,,False,0.1
-Bought on contract - fully paid,,808,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",2,low,cont,159.0,,False,0.197
-Bought outright,,800,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Secondary school (up to 16 years),,In full-time employment,"£40,000 to £49,999",1,low,env,93.0,,False,0.116
-Bought outright,,792,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,"Less than £10,000",None,high,cont,100.0,,False,0.126
-Bought outright,,360,Brand New,,Google (Pixel),,Male,,25 - 34,White,Undergraduate degree,,In full-time education,"£10,000 to £19,999",None,low,cont,40.0,,False,0.111
-Bought outright,,901,Brand New,,"Other, please specify",Samsung Note 10+,Male,,18 - 24,BAME,Master's degree,,In full-time education,Not sure,2,high,gov,130.0,,False,0.144
-Bought outright,,540,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,In full-time education,Not sure,None,low,env,100.0,,False,0.185
-Bought outright,,648,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,Not in employment,"£10,000 to £19,999",None,low,env,101.0,,False,0.156
-Bought outright,,501,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Secondary school (up to 16 years),,In full-time education,Not sure,None,low,gov,176.0,,False,0.351
-Bought outright,,669,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,45 - 54,BAME,Master's degree,,In full-time employment,"£30,000 to £39,999",2,low,cont,100.0,,False,0.149
-"Other, please specify",Gifted from family member,300,"Other, please specify","Second hand, gifted from family",Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time education,"£20,000 to £29,999",None,low,gov,50.0,,False,0.167
-Bought outright,,300,Brand New,,Samsung (Galaxy),,Male,,25 - 34,BAME,Doctoral degree,,Not in employment,"Less than £10,000",None,low,gov,51.0,,False,0.17
-Bought outright,,142,Brand New,,Samsung (Galaxy),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£10,000 to £19,999",1,low,cont,64.0,,False,0.451
-Bought outright,,350,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Undergraduate degree,,In full-time education,Not sure,None,low,cont,65.0,,False,0.186
-"Other, please specify",Bought on Contract -My Employer pays monthly ,489,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,low,env,21.0,,False,0.043
-Bought outright,,710,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,high,env,45.0,,False,0.063
-Bought on contract - fully paid,,600,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,Not in employment,"Less than £10,000",None,high,gov,204.0,,False,0.34
-Bought on contract - fully paid,,998,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Master's degree,,Not in employment,Prefer not to say,3,low,cont,0.0,Repairability is not a priority for me,False,0.0
-Bought outright,,746,Brand New,,Samsung (Galaxy),,Male,,25 - 34,BAME,Doctoral degree,,In full-time employment,"£10,000 to £19,999",None,low,gov,121.0,,False,0.162
-Bought outright,,251,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,In full-time education,"Less than £10,000",1,low,env,50.0,,False,0.199
-Bought outright,,703,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,low,gov,95.0,,False,0.135
-Bought outright,,99,Brand New,,"Other, please specify",Motorola,Male,,55 - 64,White,Doctoral degree,,In part-time employment,"£30,000 to £39,999",None,low,cont,10.0,,False,0.101
-Bought outright,,401,Brand New,,Samsung (Galaxy),,Female,,55 - 64,White,Doctoral degree,,In full-time employment,"£50,000 to £59,999",None,low,env,50.0,,False,0.125
-Bought outright,,725,Brand New,,Apple (iPhone),,Prefer not to say,,18 - 24,BAME,Undergraduate degree,,In full-time education,Not sure,None,low,cont,100.0,,False,0.138
-Bought on contract - fully paid,,300,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,Prefer not to say,None,low,env,55.0,,False,0.183
-Bought on contract - fully paid,,500,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,"£10,000 to £19,999",None,low,cont,80.0,,False,0.16
-Bought outright,,382,Brand New,,"Other, please specify","Crosscall (French Brand, Android)",Male,,18 - 24,White,Master's degree,,In full-time education,"£10,000 to £19,999",None,low,gov,100.0,,False,0.262
-Bought outright,,716,Brand New,,Apple (iPhone),,Female,,55 - 64,BAME,Master's degree,,In full-time employment,"£50,000 to £59,999",2,low,env,99.0,,False,0.138
-Bought outright,,1024,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Master's degree,,In full-time education,"Less than £10,000",None,high,gov,251.0,,False,0.245
-Bought outright,,584,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Doctoral degree,,In full-time employment,"£40,000 to £49,999",None,low,cont,100.0,,False,0.171
-Bought outright,,196,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,"Less than £10,000",None,low,gov,100.0,,False,0.51
-Bought outright,,280,Brand New,,"Other, please specify",Xiaomi,Male,,25 - 34,White,Undergraduate degree,,In full-time employment,"£60,000 to £69,999",1,low,env,140.0,,False,0.5
-Bought outright,,525,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Google (Pixel),,Female,,35 - 44,BAME,Secondary school (up to 16 years),,Not in employment,"Less than £10,000",None,low,gov,321.0,,False,0.611
-Bought outright,,1128,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,Prefer not to say,None,low,env,0.0,"Other, please specifyThe technology slows down over time e.g. processing speed and stuff which I don’t think is accounted for. Plus I can recycle my phone ",False,0.0
-Bought outright,,740,Brand New,,"Other, please specify",HUAWEI,Female,,45 - 54,BAME,Undergraduate degree,,Self employed,"£30,000 to £39,999",1,low,cont,74.0,,False,0.1
-Bought outright,,140,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Doctoral degree,,In full-time employment,"£60,000 to £69,999",1,low,cont,50.0,,False,0.357
-Bought outright,,701,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,Not sure,None,low,gov,233.0,,False,0.332
-Bought outright,,699,Brand New,,"Other, please specify",OnePlus,Male,,25 - 34,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,low,gov,350.0,,False,0.501
-Bought outright,,700,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,"Less than £10,000",None,low,cont,50.0,,False,0.071
-Bought outright,,205,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,Prefer not to say,None,low,env,51.0,,False,0.249
-Bought outright,,597,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,Not in employment,Not sure,3,low,gov,101.0,,False,0.169
-Bought outright,,1122,Brand New,,Apple (iPhone),,Female,,25 - 34,Prefer not to say,Undergraduate degree,,In full-time education,"£80,000 to £89,999",None,high,env,0.0,It should be the producer's responsibility to pay,True,0.0
-Bought outright,,1000,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In full-time education,"£50,000 to £59,999",None,high,env,150.0,,False,0.15
-Bought outright,,1008,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Undergraduate degree,,In full-time employment,"£60,000 to £69,999",None,low,gov,100.0,,False,0.099
-"Other, please specify",Old phone from family member ,501,"Other, please specify",Secondhand - family member ,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,Not sure,None,low,cont,151.0,,False,0.301
-"Other, please specify",hand me down from my son,0,"Other, please specify",secondhand gift,Google (Pixel),,Female,,45 - 54,White,Master's degree,,In full-time education,"Less than £10,000",1,low,env,0.0,"Other, please specifyrepairability is important to me but i can't afford a fair phone and the cameras are rubbish on them from seeing my friends",True,0.0
-Bought outright,,382,Brand New,,"Other, please specify",OPPO,Male,,45 - 54,BAME,Undergraduate degree,,In full-time employment,"£100,000 to £149,999",2,low,gov,20.0,,False,0.052
-Bought outright,,350,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Undergraduate degree,,Not in employment,"£20,000 to £29,999",None,high,cont,50.0,,False,0.143
-Bought outright,,521,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,env,50.0,,False,0.096
-"Other, please specify",Bought outright but over 2 years interest free,1100,Brand New,,Apple (iPhone),,Male,,45 - 54,White,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",2,low,cont,50.0,,False,0.045
-Bought outright,,680,Brand New,,Apple (iPhone),,Male,,55 - 64,White,Undergraduate degree,,In full-time employment,"£70,000 to £79,999",None,low,gov,200.0,,False,0.294
-Bought outright,,650,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,Not in employment,Not sure,None,low,gov,30.0,,False,0.046
-Bought outright,,351,Brand New,,Samsung (Galaxy),,Male,,18 - 24,BAME,Master's degree,,In full-time education,"Less than £10,000",None,low,env,102.0,,False,0.291
-Bought outright,,601,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,high,gov,100.0,,False,0.166
-Bought outright,,993,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,high,cont,156.0,,False,0.157
-Bought outright,,320,Brand New,,"Other, please specify",Nokia,Male,,Over 65,White,Undergraduate degree,,Not in employment,"£40,000 to £49,999",None,low,env,40.0,,False,0.125
-Bought outright,,253,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Male,,18 - 24,White,Master's degree,,In full-time education,"Less than £10,000",None,low,gov,105.0,,False,0.415
-Bought outright,,482,Brand New,,Samsung (Galaxy),,Male,,18 - 24,BAME,Undergraduate degree,,In part-time employment,"Less than £10,000",None,high,env,71.0,,False,0.147
-Bought outright,,568,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In part-time employment,"Less than £10,000",None,low,cont,200.0,,False,0.352
-Bought outright,,800,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,"£20,000 to £29,999",None,low,env,201.0,,False,0.251
-Bought outright,,199,Brand New,,"Other, please specify",Poco,Female,,45 - 54,White,Doctoral degree,,In full-time employment,Prefer not to say,3,low,gov,30.0,,False,0.151
-Bought outright,,411,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,In full-time employment,"£30,000 to £39,999",None,low,gov,51.0,,False,0.124
-Bought outright,,103,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Male,,55 - 64,White,Doctoral degree,,In full-time employment,"£50,000 to £59,999",1,low,env,52.0,,False,0.505
-Bought outright,,315,Secondhand - Private Seller (eg. ebay),,Samsung (Galaxy),,Male,,55 - 64,White,Doctoral degree,,In full-time employment,"£60,000 to £69,999",None,low,cont,21.0,,False,0.067
-Bought outright,,230,Brand New,,Samsung (Galaxy),,Female,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,Not in employment,"Less than £10,000",None,low,env,42.0,,False,0.183
-Bought outright,,501,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Female,,55 - 64,White,Doctoral degree,,In full-time employment,"£70,000 to £79,999",3,low,gov,100.0,,False,0.2
-"Other, please specify","Finance from Apple directly, pay monthly",830,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,In full-time education,"Less than £10,000",None,high,cont,103.0,,False,0.124
-Bought outright,,605,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,In full-time education,"Less than £10,000",None,low,gov,51.0,,False,0.084
-Bought on contract - fully paid,,1003,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,cont,252.0,,False,0.251
-Bought outright,,800,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,Not in employment,"Less than £10,000",None,low,env,50.0,,False,0.062
-Bought outright,,169,Brand New,,"Other, please specify",Xiaomi,Male,,25 - 34,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,low,cont,48.0,,False,0.284
-Bought outright,,758,Brand New,,"Other, please specify",OnePlus,Male,,18 - 24,BAME,Undergraduate degree,,In full-time employment,Prefer not to say,None,low,gov,101.0,,False,0.133
-Bought on contract - fully paid,,688,Secondhand - Manufacturer Refurbished (eg. Apple),,Samsung (Galaxy),,Non-binary / third gender,,Over 65,White,Primary school,,Not in employment,"£30,000 to £39,999",5 or more,low,env,13.0,,False,0.019
-Bought on contract - fully paid,,208,Brand New,,"Other, please specify",Huwawei,Female,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,high,cont,100.0,,False,0.481
-Bought outright,,823,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In full-time education,"£10,000 to £19,999",None,low,env,100.0,,False,0.122
-Bought outright,,310,Brand New,,Samsung (Galaxy),,Male,,45 - 54,White,Undergraduate degree,,In full-time employment,"£50,000 to £59,999",2,low,gov,0.0,Repairability is not a priority for me,False,0.0
-Bought outright,,995,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£50,000 to £59,999",None,low,cont,59.0,,False,0.059
-"Other, please specify",,245,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Doctoral degree,,In full-time employment,"£50,000 to £59,999",2,low,env,100.0,,False,0.408
-Bought outright,,303,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,gov,103.0,,False,0.34
-Bought on contract - fully paid,,900,Brand New,,Apple (iPhone),,Male,,18 - 24,Prefer not to say,Undergraduate degree,,Not in employment,Prefer not to say,None,low,env,177.0,,False,0.197
-Bought outright,,988,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,Prefer not to say,None,low,gov,14.0,,False,0.014
-Bought outright,,503,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,Not in employment,Prefer not to say,None,low,env,51.0,,False,0.101
-Bought outright,,540,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time education,"£10,000 to £19,999",None,high,cont,55.0,,False,0.102
-Bought on contract - fully paid,,0,Brand New,,Samsung (Galaxy),,Female,,45 - 54,White,Undergraduate degree,,In full-time employment,"£50,000 to £59,999",None,low,env,51.0,,False,0.0
-Bought on contract - fully paid,,245,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time education,"£30,000 to £39,999",None,low,cont,50.0,,False,0.204
-Bought on contract - fully paid,,930,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,Not sure,None,low,gov,116.0,,False,0.125
-Bought outright,,286,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,Self employed,"£30,000 to £39,999",None,low,cont,101.0,,False,0.353
-Bought outright,,373,Brand New,,Samsung (Galaxy),,Male,,35 - 44,BAME,Doctoral degree,,Self employed,"£50,000 to £59,999",None,low,env,49.0,,False,0.131
-Bought outright,,400,Brand New,,Apple (iPhone),,Female,,45 - 54,BAME,Master's degree,,In part-time employment,"£30,000 to £39,999",2,low,gov,106.0,,False,0.265
-Bought outright,,605,Brand New,,"Other, please specify",One Plus,Male,,35 - 44,BAME,Master's degree,,In full-time employment,"£80,000 to £89,999",None,high,gov,65.0,,False,0.107
-Bought on contract - fully paid,,325,Brand New,,Apple (iPhone),,Male,,55 - 64,White,Master's degree,,In full-time employment,Not sure,None,low,cont,120.0,,False,0.369
-Bought outright,,845,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£40,000 to £49,999",1,high,env,221.0,,False,0.262
-Bought outright,,800,Brand New,,Apple (iPhone),,Male,,25 - 34,BAME,Doctoral degree,,In full-time education,"Less than £10,000",None,low,gov,200.0,,False,0.25
-Bought outright,,815,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,high,env,107.0,,False,0.131
-Bought on contract - fully paid,,605,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,low,cont,100.0,,False,0.165
-Bought outright,,659,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,low,gov,152.0,,False,0.231
-Bought outright,,720,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,Not in employment,Prefer not to say,None,low,cont,100.0,,False,0.139
-Bought outright,,51,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,25 - 34,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,high,cont,20.0,,False,0.392
-Bought on contract - fully paid,,638,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,env,61.0,,False,0.096
-Bought outright,,449,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In part-time employment,"Less than £10,000",None,high,gov,51.0,,False,0.114
-Bought outright,,162,Brand New,,Apple (iPhone),,Female,,45 - 54,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,"£20,000 to £29,999",1,high,gov,37.0,,False,0.228
-"Other, please specify",Free device with 24 month contract,0,Brand New,,"Other, please specify",Sony,Female,,45 - 54,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,"£30,000 to £39,999",None,low,env,50.0,,False,0.0
-Bought on contract - fully paid,,300,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",None,low,cont,50.0,,False,0.167
-Bought on contract - fully paid,,800,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Undergraduate degree,,In full-time employment,"£90,000 to £99,999",None,high,env,215.0,,False,0.269
-Bought outright,,163,Brand New,,"Other, please specify",Motorola Moto G5,Male,,45 - 54,White,Master's degree,,Self employed,"£80,000 to £89,999",None,low,gov,40.0,,False,0.245
-"Other, please specify",Hand-me-down,406,"Other, please specify",Given by partner,Samsung (Galaxy),,Female,,35 - 44,White,Master's degree,,Self employed,Prefer not to say,1,low,cont,155.0,,False,0.382
-Bought outright,,851,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,"Other, please specify",Completing doctorate,In full-time education,"£10,000 to £19,999",None,low,env,100.0,,False,0.118
-Bought outright,,195,Brand New,,"Other, please specify",motorola,Male,,55 - 64,White,Master's degree,,Self employed,"£30,000 to £39,999",None,low,gov,57.0,,False,0.292
-Bought outright,,204,Brand New,,"Other, please specify",Mi A2 Lite,Male,,35 - 44,White,Master's degree,,In full-time employment,"£100,000 to £149,999",1,low,gov,101.0,,False,0.495
-Bought outright,,307,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£50,000 to £59,999",None,low,cont,20.0,,False,0.065
-"Other, please specify",Supplied by employer ,0,Brand New,,Apple (iPhone),,Male,,35 - 44,White,Doctoral degree,,In full-time employment,"£60,000 to £69,999",1,low,cont,100.0,,False,0.0
-Bought outright,,80,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,low,gov,44.0,,False,0.55
-Bought outright,,270,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Female,,45 - 54,White,Master's degree,,In part-time employment,"£40,000 to £49,999",2,low,env,100.0,,False,0.37
-Bought outright,,665,Brand New,,"Other, please specify",Sony,Female,,25 - 34,BAME,Master's degree,,In full-time employment,"£150,000 or more",2,low,gov,155.0,,False,0.233
-Bought on contract - fully paid,,650,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£60,000 to £69,999",None,low,cont,100.0,,False,0.154
-"Other, please specify",Second hand - old phone of a friend,0,"Other, please specify",I did not purchase my phone,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,low,env,201.0,,False,0.0
-Bought outright,,701,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,low,env,60.0,,False,0.086
-"Other, please specify",Through work,498,Brand New,,Apple (iPhone),,Male,,45 - 54,White,Master's degree,,In full-time employment,"£150,000 or more",3,low,gov,0.0,It should be the producer's responsibility to pay,True,0.0
-Bought outright,,101,Secondhand - Private Seller (eg. ebay),,"Other, please specify",Huawei ,Male,,25 - 34,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,low,cont,40.0,,False,0.396
-Bought outright,,491,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£50,000 to £59,999",None,low,gov,45.0,,False,0.092
-Bought outright,,180,Brand New,,"Other, please specify",honor 7x,Male,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,"£10,000 to £19,999",None,low,cont,75.0,,False,0.417
-Bought outright,,243,Brand New,,Apple (iPhone),,Female,,Over 65,White,Master's degree,,In part-time employment,"£20,000 to £29,999",1,low,env,304.0,,False,1.251
-"Other, please specify","Yes. I own my dad's old phone (i.e. he purchased a new one, and I kept his old one).",0,"Other, please specify",Secondhand - family member,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,low,cont,80.0,,False,0.0
-Bought outright,,580,Brand New,,Samsung (Galaxy),,Female,,25 - 34,BAME,Master's degree,,In part-time employment,Prefer not to say,None,high,env,150.0,,False,0.259
-Bought outright,,300,Brand New,,"Other, please specify",Huawei,Female,,25 - 34,White,Master's degree,,In full-time employment,"£10,000 to £19,999",1,low,gov,50.0,,False,0.167
-Bought outright,,1075,Brand New,,Apple (iPhone),,Female,,45 - 54,White,Master's degree,,In full-time employment,"£150,000 or more",1,low,gov,500.0,,False,0.465
-Bought outright,,127,Brand New,,"Other, please specify",One plus,Female,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,low,cont,49.0,,False,0.386
-Bought outright,,50,"Other, please specify",My daughter upgraded to an iPhone and gave me her samsung,Samsung (Galaxy),,Female,,55 - 64,White,"Other, please specify",PGCE,Self employed,"£20,000 to £29,999",1,low,env,51.0,,False,1.02
-Bought outright,,320,Brand New,,Samsung (Galaxy),,Female,,55 - 64,White,"Other, please specify",Professional qualification postgraduate,In part-time employment,Prefer not to say,None,low,cont,50.0,,False,0.156
-Bought outright,,201,Brand New,,Samsung (Galaxy),,Female,,55 - 64,White,Undergraduate degree,,In full-time employment,"£70,000 to £79,999",None,low,gov,52.0,,False,0.259
-Bought outright,,353,Brand New,,Samsung (Galaxy),,Female,,18 - 24,BAME,Master's degree,,In full-time employment,"£20,000 to £29,999",None,low,env,100.0,,False,0.283
-Bought on contract - fully paid,,702,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,low,env,54.0,,False,0.077
-Bought outright,,907,Brand New,,Apple (iPhone),,Non-binary / third gender,,Over 65,BAME,Doctoral degree,,In full-time employment,"£90,000 to £99,999",3,low,cont,51.0,,False,0.056
-Bought on contract - fully paid,,81,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time employment,"£10,000 to £19,999",None,high,env,32.0,,False,0.395
-Bought on contract - fully paid,,175,Brand New,,"Other, please specify",HTC,Male,,55 - 64,White,Doctoral degree,,In full-time employment,"£30,000 to £39,999",None,low,cont,50.0,,False,0.286
-Bought outright,,386,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£50,000 to £59,999",None,low,gov,99.0,,False,0.256
-Bought on contract - fully paid,,150,Brand New,,Samsung (Galaxy),,Female,,35 - 44,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,low,env,50.0,,False,0.333
-Bought outright,,362,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In part-time employment,"£20,000 to £29,999",None,high,cont,142.0,,False,0.392
-Bought on contract - fully paid,,699,Brand New,,Apple (iPhone),,Male,,45 - 54,White,Master's degree,,In full-time employment,"£40,000 to £49,999",3,low,gov,40.0,,False,0.057
-Bought outright,,699,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time education,Not sure,None,low,cont,0.0,Repairability is not a priority for me,False,0.0
-Bought outright,,751,Brand New,,"Other, please specify",Huawei ,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,Not sure,None,high,gov,100.0,,False,0.133
-Bought outright,,177,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Undergraduate degree,,In full-time employment,"£70,000 to £79,999",None,low,env,230.0,,False,1.299
-Bought outright,,281,Brand New,,"Other, please specify",Xiaomi,Female,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,low,cont,80.0,,False,0.285
-Bought outright,,300,Brand New,,Samsung (Galaxy),,Female,,35 - 44,White,Doctoral degree,,In full-time employment,"£20,000 to £29,999",2,low,env,50.0,,False,0.167
-Bought outright,,126,Brand New,,"Other, please specify",Sony,Male,,18 - 24,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,gov,40.0,,False,0.317
-Bought on contract - fully paid,,795,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,low,env,108.0,,False,0.136
-Bought outright,,978,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time education,Not sure,None,high,gov,280.0,,False,0.286
-Bought outright,,304,Brand New,,Samsung (Galaxy),,Male,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,"£30,000 to £39,999",None,low,cont,76.0,,False,0.25
-Bought outright,,1000,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time education,"£10,000 to £19,999",None,high,gov,201.0,,False,0.201
-Bought outright,,500,Brand New,,Samsung (Galaxy),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,high,cont,100.0,,False,0.2
-Bought outright,,399,Brand New,,"Other, please specify",Huawei,Male,,25 - 34,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,env,151.0,,False,0.378
-Bought outright,,800,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Male,,25 - 34,White,Doctoral degree,,In full-time employment,"£30,000 to £39,999",None,low,gov,103.0,,False,0.129
-Bought outright,,519,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£50,000 to £59,999",None,low,cont,155.0,,False,0.299
-Bought outright,,1100,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,low,env,149.0,,False,0.135
-Bought outright,,592,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,low,gov,172.0,,False,0.291
-Bought outright,,503,Brand New,,Apple (iPhone),,Female,,55 - 64,White,Undergraduate degree,,Not in employment,"£40,000 to £49,999",None,low,cont,100.0,,False,0.199
-Bought outright,,700,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Master's degree,,In full-time employment,"£40,000 to £49,999",None,low,gov,101.0,,False,0.144
-Bought outright,,205,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Samsung (Galaxy),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,env,53.0,,False,0.259
-Bought on contract - fully paid,,604,Brand New,,"Other, please specify",Huawei ,Female,,25 - 34,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,low,env,101.0,,False,0.167
-Bought outright,,154,Brand New,,Samsung (Galaxy),,Female,,55 - 64,White,Doctoral degree,,In part-time employment,"£40,000 to £49,999",2,low,cont,50.0,,False,0.325
-Bought outright,,1152,Brand New,,Apple (iPhone),,Male,,25 - 34,BAME,Master's degree,,In part-time employment,"£20,000 to £29,999",None,low,gov,150.0,,False,0.13
-Bought outright,,549,Brand New,,Google (Pixel),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£50,000 to £59,999",None,low,env,197.0,,False,0.359
-Bought outright,,151,Brand New,,"Other, please specify",Motorola (android),Female,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,"Less than £10,000",None,low,cont,100.0,,False,0.662
-Bought outright,,1013,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Doctoral degree,,In full-time education,"£10,000 to £19,999",None,high,cont,299.0,,False,0.295
-Bought on contract - fully paid,,1319,Brand New,,Apple (iPhone),,Male,,25 - 34,BAME,Doctoral degree,,In full-time employment,"£50,000 to £59,999",2,low,env,51.0,,False,0.039
-"Other, please specify",Company phone,621,Brand New,,Apple (iPhone),,Male,,45 - 54,White,Master's degree,,In full-time employment,"£150,000 or more",3,low,gov,146.0,,False,0.235
-Bought outright,,750,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,low,gov,149.0,,False,0.199
-Bought outright,,756,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time education,"£20,000 to £29,999",1,high,cont,400.0,,False,0.529
-Bought outright,,197,Brand New,,"Other, please specify",Nokia,Female,,Over 65,White,Master's degree,,Not in employment,"£10,000 to £19,999",None,low,env,50.0,,False,0.254
-"Other, please specify","Bought mobile, paying for sim only ",10,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,low,gov,100.0,,False,10.0
-Bought outright,,405,Brand New,,Samsung (Galaxy),,Prefer not to say,,25 - 34,BAME,Master's degree,,Not in employment,"Less than £10,000",None,low,env,20.0,,False,0.049
-Bought outright,,251,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Samsung (Galaxy),,Female,,55 - 64,White,Doctoral degree,,In full-time employment,"£40,000 to £49,999",None,low,env,100.0,,False,0.398
-Bought outright,,601,Brand New,,Google (Pixel),,Male,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,low,cont,150.0,,False,0.25
-Bought outright,,459,Brand New,,Apple (iPhone),,Male,,55 - 64,White,Master's degree,,In part-time employment,"£40,000 to £49,999",1,low,cont,115.0,,False,0.251
-Bought outright,,163,Secondhand - Manufacturer Refurbished (eg. Apple),,Samsung (Galaxy),,Male,,45 - 54,BAME,Master's degree,,Not in employment,Prefer not to say,2,high,env,46.0,,False,0.282
-Bought outright,,395,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£50,000 to £59,999",None,low,gov,200.0,,False,0.506
-Bought outright,,710,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,low,gov,80.0,,False,0.113
-"Other, please specify",Combination of above - phones for kids as well,211,Brand New,,Samsung (Galaxy),,Female,,45 - 54,White,Master's degree,,In part-time employment,"£40,000 to £49,999",2,low,env,29.0,,False,0.137
-Bought outright,,32,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,"£20,000 to £29,999",None,low,cont,22.0,,False,0.688
-Bought outright,,400,Brand New,,Samsung (Galaxy),,Non-binary / third gender,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,Not in employment,"Less than £10,000",None,low,env,0.0,Repairability is not a priority for me,False,0.0
-Bought outright,,791,Brand New,,Samsung (Galaxy),,Female,,25 - 34,BAME,Master's degree,,In full-time employment,"£40,000 to £49,999",None,high,gov,101.0,,False,0.128
-Bought outright,,500,Brand New,,Samsung (Galaxy),,Female,,25 - 34,BAME,Master's degree,,In full-time employment,"£70,000 to £79,999",None,high,cont,99.0,,False,0.198
-Bought outright,,700,Brand New,,"Other, please specify",Sony Xperia 5 II,Male,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,"£100,000 to £149,999",None,low,cont,175.0,,False,0.25
-Bought outright,,800,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,"Other, please specify",Bachelor degree,In full-time employment,Prefer not to say,None,low,gov,101.0,,False,0.126
-Bought outright,,253,Brand New,,Google (Pixel),,Male,,25 - 34,White,Master's degree,,Self employed,Prefer not to say,None,low,env,0.0,It should be the producer's responsibility to pay,True,0.0
-Bought outright,,129,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,"Other, please specify",Sony,Female,,25 - 34,White,Master's degree,,In full-time education,"£10,000 to £19,999",None,low,env,50.0,,False,0.388
-Bought outright,,514,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,Prefer not to say,None,low,cont,98.0,,False,0.191
-Bought outright,,703,Brand New,,Samsung (Galaxy),,Male,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,Prefer not to say,None,low,gov,299.0,,False,0.425
-Bought outright,,175,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,high,cont,47.0,,False,0.269
-Bought outright,,420,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,Prefer not to say,None,low,gov,105.0,,False,0.25
-Bought outright,,500,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,env,100.0,,False,0.2
-Bought outright,,135,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,low,env,111.0,,False,0.822
-Bought outright,,601,Brand New,,Google (Pixel),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",None,low,gov,140.0,,False,0.233
-Bought outright,,500,Brand New,,Samsung (Galaxy),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,low,cont,50.0,,False,0.1
-Bought outright,,601,Brand New,,Samsung (Galaxy),,Male,,18 - 24,White,Master's degree,,In full-time education,"Less than £10,000",None,low,cont,175.0,,False,0.291
-Bought outright,,1000,Brand New,,Apple (iPhone),,Male,,45 - 54,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,Prefer not to say,3,low,gov,51.0,,False,0.051
-Bought outright,,1003,Brand New,,Apple (iPhone),,Male,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,"£30,000 to £39,999",None,low,env,109.0,,False,0.109
-Bought on contract - fully paid,,1049,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,"£20,000 to £29,999",None,high,cont,100.0,,False,0.095
-Bought outright,,201,Brand New,,"Other, please specify",Realmi,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£50,000 to £59,999",1,low,gov,154.0,,False,0.766
-Bought on contract - fully paid,,300,Brand New,,Samsung (Galaxy),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£30,000 to £39,999",2,high,env,50.0,,False,0.167
-Bought outright,,378,Brand New,,"Other, please specify",Oneplus7,Female,,35 - 44,BAME,Master's degree,,Not in employment,Prefer not to say,2,low,env,50.0,,False,0.132
-Bought on contract - fully paid,,592,Brand New,,Samsung (Galaxy),,Female,,35 - 44,BAME,Master's degree,,In part-time employment,"Less than £10,000",2,low,cont,55.0,,False,0.093
-Bought outright,,382,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Male,,Under 18,BAME,Secondary school (up to 16 years),,In full-time education,"Less than £10,000",None,low,gov,55.0,,False,0.144
-Bought on contract - fully paid,,497,Secondhand - Private Seller (eg. ebay),,Samsung (Galaxy),,Prefer not to say,,35 - 44,BAME,Secondary school (up to 16 years),,In full-time employment,"£20,000 to £29,999",4,low,gov,200.0,,False,0.402
-Bought outright,,540,Secondhand - Manufacturer Refurbished (eg. Apple),,Google (Pixel),,Female,,55 - 64,BAME,Primary school,,In full-time employment,"£20,000 to £29,999",None,low,env,242.0,,False,0.448
-Bought outright,,605,Brand New,,Apple (iPhone),,Male,,45 - 54,BAME,Undergraduate degree,,In full-time employment,"£90,000 to £99,999",3,high,cont,57.0,,False,0.094
-Bought outright,,394,Brand New,,Samsung (Galaxy),,Male,,35 - 44,BAME,Master's degree,,In full-time employment,"£60,000 to £69,999",None,low,env,72.0,,False,0.183
-Bought on contract - fully paid,,773,Brand New,,Apple (iPhone),,Female,,45 - 54,BAME,Master's degree,,In part-time employment,"£10,000 to £19,999",2,high,gov,231.0,,False,0.299
-Bought outright,,530,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,In part-time employment,"£10,000 to £19,999",None,high,cont,106.0,,False,0.2
-Bought outright,,843,Brand New,,Apple (iPhone),,Male,,35 - 44,BAME,Master's degree,,Self employed,"£100,000 to £149,999",1,low,gov,201.0,,False,0.238
-Bought outright,,1065,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,Not sure,4,high,env,248.0,,False,0.233
-Bought outright,,795,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",1,high,cont,69.0,,False,0.087
-Bought outright,,719,Brand New,,Samsung (Galaxy),,Male,,35 - 44,White,Master's degree,,Self employed,"£50,000 to £59,999",2,high,cont,74.0,,False,0.103
-Bought outright,,183,Brand New,,Samsung (Galaxy),,Prefer not to say,,Under 18,BAME,Primary school,,Not in employment,Not sure,4,low,env,114.0,,False,0.623
-Bought on contract - fully paid,,387,Secondhand - Manufacturer Refurbished (eg. Apple),,Google (Pixel),,Prefer not to say,,35 - 44,BAME,Doctoral degree,,In full-time education,"£20,000 to £29,999",3,low,gov,215.0,,False,0.556
-Bought outright,,888,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Non-binary / third gender,,18 - 24,BAME,Primary school,,In full-time education,"£10,000 to £19,999",None,high,cont,418.0,,False,0.471
-Bought on contract - fully paid,,607,Secondhand - Private Seller (eg. ebay),,Google (Pixel),,Male,,25 - 34,White,Primary school,,Self employed,"£150,000 or more",None,low,gov,190.0,,False,0.313
-Bought on contract - fully paid,,396,Brand New,,Apple (iPhone),,Male,,Under 18,White,Secondary school (up to 16 years),,In full-time education,"Less than £10,000",None,low,env,0.0,Repairability is not a priority for me,False,0.0
-Bought outright,,200,Brand New,,"Other, please specify",Motorola ,Male,,Under 18,BAME,Primary school,,Not in employment,"Less than £10,000",None,low,gov,50.0,,False,0.25
-Bought outright,,188,Brand New,,"Other, please specify",A 50,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£10,000 to £19,999",None,high,cont,123.0,,False,0.654
-Bought outright,,600,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£30,000 to £39,999",2,low,env,149.0,,False,0.248
-Bought outright,,857,Brand New,,Apple (iPhone),,Prefer not to say,,35 - 44,BAME,Prefer not to say,,Self employed,"£30,000 to £39,999",2,high,cont,80.0,,False,0.093
-Bought on contract - fully paid,,715,Brand New,,Apple (iPhone),,Prefer not to say,,35 - 44,BAME,Master's degree,,In part-time employment,Prefer not to say,2,low,gov,43.0,,False,0.06
-Bought outright,,980,Brand New,,Samsung (Galaxy),,Female,,45 - 54,BAME,Master's degree,,In part-time employment,Prefer not to say,2,low,cont,104.0,,False,0.106
-Bought on contract - fully paid,,505,Brand New,,Apple (iPhone),,Female,,55 - 64,White,Undergraduate degree,,In full-time education,"£10,000 to £19,999",None,low,env,149.0,,False,0.295
-Bought outright,,235,Brand New,,"Other, please specify",Moto,Female,,35 - 44,BAME,Master's degree,,Not in employment,Prefer not to say,3,low,gov,30.0,,False,0.128
-Bought outright,,159,Brand New,,"Other, please specify",Moto g,Female,,55 - 64,White,"Further education (16+, A-Levels, BTEC, etc.)",,Not in employment,Prefer not to say,2,low,cont,40.0,,False,0.252
-Bought on contract - fully paid,,764,Secondhand - Manufacturer Refurbished (eg. Apple),,Samsung (Galaxy),,Non-binary / third gender,,55 - 64,White,"Further education (16+, A-Levels, BTEC, etc.)",,Self employed,"£30,000 to £39,999",4,low,gov,57.0,,False,0.075
-Bought outright,,1270,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,Not in employment,Prefer not to say,2,high,env,0.0,Repairability is not a priority for me,False,0.0
-Bought outright,,726,Brand New,,Apple (iPhone),,Female,,45 - 54,BAME,Master's degree,,In full-time employment,Prefer not to say,2,low,env,19.0,,False,0.026
-Bought outright,,256,Brand New,,Samsung (Galaxy),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£50,000 to £59,999",2,high,cont,40.0,,False,0.156
-Bought outright,,295,Brand New,,Samsung (Galaxy),,Male,,18 - 24,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,low,gov,34.0,,False,0.115
-Bought on contract - fully paid,,168,Brand New,,Samsung (Galaxy),,Female,,45 - 54,BAME,Master's degree,,In full-time employment,"£40,000 to £49,999",2,high,gov,25.0,,False,0.149
-Bought outright,,972,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£80,000 to £89,999",1,low,cont,124.0,,False,0.128
-Bought outright,,689,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",2,high,env,500.0,,False,0.726
-Bought outright,,1119,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,In full-time employment,"£30,000 to £39,999",None,low,cont,144.0,,False,0.129
-Bought outright,,1024,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,Prefer not to say,2,low,gov,241.0,,False,0.235
-"Other, please specify",,669,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£30,000 to £39,999",2,high,env,131.0,,False,0.196
-Bought outright,,650,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Doctoral degree,,In full-time employment,"£60,000 to £69,999",1,low,cont,100.0,,False,0.154
-Bought outright,,554,Brand New,,Apple (iPhone),,Male,,35 - 44,BAME,Doctoral degree,,Self employed,"£30,000 to £39,999",3,low,env,100.0,,False,0.181
-Bought outright,,201,Brand New,,"Other, please specify",Motorola G5,Female,,25 - 34,White,Master's degree,,In full-time employment,"£10,000 to £19,999",None,low,gov,100.0,,False,0.498
-Bought outright,,600,Brand New,,Apple (iPhone),,Female,,45 - 54,White,Master's degree,,Self employed,"£30,000 to £39,999",1,low,gov,51.0,,False,0.085
-Bought outright,,482,Brand New,,"Other, please specify",Huawei,Female,,45 - 54,Prefer not to say,Master's degree,,In part-time employment,"£10,000 to £19,999",2,low,env,78.0,,False,0.162
-"Other, please specify",Purchased separately to contract,1010,Brand New,,Apple (iPhone),,Male,,35 - 44,White,Master's degree,,In full-time education,"£20,000 to £29,999",1,low,cont,55.0,,False,0.054
-Bought outright,,800,Brand New,,Samsung (Galaxy),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,low,env,180.0,,False,0.225
-Bought outright,,634,Brand New,,"Other, please specify",Oneplus 8 Pro,Male,,18 - 24,White,Undergraduate degree,,Not in employment,"Less than £10,000",None,high,cont,81.0,,False,0.128
-Bought on contract - fully paid,,172,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,low,gov,116.0,,False,0.674
-"Other, please specify",Company phone,1003,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,low,env,151.0,,False,0.151
-Bought on contract - fully paid,,737,Brand New,,Samsung (Galaxy),,Female,,35 - 44,BAME,Master's degree,,Self employed,Not sure,2,high,gov,198.0,,False,0.269
-Bought outright,,243,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Male,,18 - 24,White,Master's degree,,In full-time education,Not sure,None,low,cont,113.0,,False,0.465
-Bought outright,,1008,Brand New,,Apple (iPhone),,Male,,55 - 64,White,Master's degree,,In part-time employment,"£80,000 to £89,999",2,low,env,370.0,,False,0.367
-Bought outright,,481,Brand New,,Apple (iPhone),,Male,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,"£50,000 to £59,999",None,low,cont,51.0,,False,0.106
-Bought outright,,702,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,low,gov,100.0,,False,0.142
-"Other, please specify",Renting my phone ,31,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,low,gov,150.0,,False,4.839
-Bought outright,,401,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time employment,Prefer not to say,None,low,cont,40.0,,False,0.1
-Bought outright,,650,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time education,"£10,000 to £19,999",None,low,env,40.0,,False,0.062
-Bought outright,,65,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,55 - 64,White,"Further education (16+, A-Levels, BTEC, etc.)",,In part-time employment,"£10,000 to £19,999",None,low,env,81.0,,False,1.246
-Bought on contract - fully paid,,270,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Secondary school (up to 16 years),,In full-time employment,"£20,000 to £29,999",None,low,cont,106.0,,False,0.393
-Bought outright,,351,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,low,gov,76.0,,False,0.217
-Bought outright,,741,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In part-time employment,"£20,000 to £29,999",None,high,gov,93.0,,False,0.126
-Bought outright,,253,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Male,,18 - 24,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,low,env,100.0,,False,0.395
-Bought outright,,1000,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Doctoral degree,,In full-time employment,"£40,000 to £49,999",None,high,cont,100.0,,False,0.1
-Bought outright,,154,Brand New,,"Other, please specify",Motorola ,Male,,25 - 34,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,low,gov,70.0,,False,0.455
-Bought on contract - fully paid,,555,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,low,env,99.0,,False,0.178
-Bought outright,,854,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,low,cont,40.0,,False,0.047
-Bought outright,,761,Brand New,,Samsung (Galaxy),,Male,,18 - 24,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,low,gov,20.0,,False,0.026
-Bought outright,,303,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,low,env,201.0,,False,0.663
-Bought outright,,1003,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£50,000 to £59,999",None,low,cont,100.0,,False,0.1
-Bought outright,,399,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Prefer not to say,,In full-time employment,Prefer not to say,None,low,cont,60.0,,False,0.15
-Bought outright,,681,Brand New,,Samsung (Galaxy),,Female,,25 - 34,BAME,Doctoral degree,,In full-time employment,"£40,000 to £49,999",1,low,gov,84.0,,False,0.123
-Bought outright,,584,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,low,cont,201.0,,False,0.344
-Bought outright,,215,Brand New,,"Other, please specify",Xiaomi Mi9 SE,Male,,25 - 34,White,Master's degree,,Not in employment,"£20,000 to £29,999",None,low,cont,106.0,,False,0.493
-Bought outright,,199,Brand New,,"Other, please specify",Moto g7 power,Male,,55 - 64,White,Master's degree,,In full-time employment,"£70,000 to £79,999",None,low,cont,25.0,,False,0.126
-Bought outright,,601,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Master's degree,,In full-time education,"Less than £10,000",None,high,cont,151.0,,False,0.251
-Bought outright,,454,Secondhand - Manufacturer Refurbished (eg. Apple),,Samsung (Galaxy),,Female,,55 - 64,White,Doctoral degree,,In full-time employment,"£60,000 to £69,999",2,low,cont,78.0,,False,0.172
-Bought outright,,549,Brand New,,Samsung (Galaxy),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,high,cont,0.0,"Other, please specifyPhones should be made repairable or more durable ",False,0.0
-Bought on contract - fully paid,,676,Secondhand - Manufacturer Refurbished (eg. Apple),,Samsung (Galaxy),,Female,,35 - 44,BAME,Undergraduate degree,,Self employed,"£20,000 to £29,999",None,low,cont,122.0,,False,0.18
-Bought outright,,348,Brand New,,"Other, please specify",One plus,Female,,35 - 44,White,Doctoral degree,,In full-time employment,"£80,000 to £89,999",1,low,cont,149.0,,False,0.428
-Bought on contract - fully paid,,806,Brand New,,Apple (iPhone),,Female,,45 - 54,White,Master's degree,,In full-time employment,"£100,000 to £149,999",None,low,cont,151.0,,False,0.187
-Bought outright,,145,Brand New,,"Other, please specify",Xiaomi,Male,,Under 18,BAME,Secondary school (up to 16 years),,Not in employment,Prefer not to say,None,low,cont,50.0,,False,0.345
+phone_ownership,phone_ownership_response,phone_cost,state_phone,state_phone_response,brand_phone,brand_phone_response,gender,gender_response,age,ethnicity,education,education_response,employment_status,income,family_size,treatment,WTP,WTP_response,WTP_per,protest_flag,emotional_attachment
+Bought on contract - fully paid,,903,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,In full-time education,"Less than £10,000",None,env,142.0,,0.157,False,12
+Bought outright,,777,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",2,env,201.0,,0.259,False,12
+Bought outright,,701,Brand New,,"Other, please specify",OnePlus,Male,,25 - 34,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,gov,150.0,,0.214,False,10
+Bought on contract - fully paid,,614,Brand New,,Samsung (Galaxy),,Male,,18 - 24,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,cont,50.0,,0.081,False,13
+Bought outright,,736,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In part-time employment,"£30,000 to £39,999",2,gov,223.0,,0.303,False,16
+Bought outright,,850,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Self employed,"Less than £10,000",None,env,199.0,,0.234,False,9
+Bought outright,,602,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In part-time employment,"£10,000 to £19,999",None,cont,160.0,,0.266,False,10
+Bought outright,,800,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,Not sure,None,cont,125.0,,0.156,False,14
+Bought outright,,607,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",None,env,85.0,,0.14,False,12
+Bought on contract - fully paid,,837,Brand New,,Samsung (Galaxy),,Male,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,Not sure,None,cont,110.0,,0.131,False,10
+Bought outright,,506,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,In full-time education,Not sure,None,gov,55.0,,0.109,False,15
+Bought outright,,300,Brand New,,Google (Pixel),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",None,env,61.0,,0.203,False,9
+Bought outright,,999,Brand New,,Samsung (Galaxy),,Female,,25 - 34,BAME,Undergraduate degree,,In full-time education,"£30,000 to £39,999",None,cont,101.0,,0.101,False,10
+Bought outright,,802,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Master's degree,,Not in employment,"Less than £10,000",1,gov,116.0,,0.145,False,12
+Bought outright,,426,Brand New,,Samsung (Galaxy),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",None,gov,100.0,,0.235,False,11
+Bought outright,,196,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,Not in employment,"Less than £10,000",None,env,403.0,,2.056,False,8
+Bought outright,,1100,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,cont,90.0,,0.082,False,15
+Bought outright,,352,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time education,"£40,000 to £49,999",None,cont,50.0,,0.142,False,11
+Bought outright,,399,Brand New,,"Other, please specify",OnePlus,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,env,100.0,,0.251,False,12
+Bought outright,,544,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",None,env,100.0,,0.184,False,12
+Bought on contract - fully paid,,1049,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,Not in employment,"£10,000 to £19,999",2,cont,51.0,,0.049,False,15
+Bought outright,,405,Brand New,,"Other, please specify",Huawei,Female,,18 - 24,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,gov,82.0,,0.202,False,7
+Bought outright,,597,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,In full-time education,"Less than £10,000",None,cont,256.0,,0.429,False,12
+Bought outright,,935,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,"Less than £10,000",None,gov,98.0,,0.105,False,11
+Bought on contract - fully paid,,967,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,"Less than £10,000",2,env,198.0,,0.205,False,13
+Bought outright,,908,Brand New,,"Other, please specify",Huawei,Female,,18 - 24,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,gov,100.0,,0.11,False,13
+Bought outright,,573,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Undergraduate degree,,In full-time education,Not sure,2,gov,201.0,,0.351,False,13
+Bought outright,,710,Brand New,,Apple (iPhone),,Male,,45 - 54,White,Master's degree,,In full-time education,Not sure,None,env,46.0,,0.065,False,9
+"Other, please specify",Second hand from parents,109,"Other, please specify",from Family,Apple (iPhone),,Male,,25 - 34,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,cont,111.0,,1.018,False,4
+Bought outright,,602,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,Not sure,4,env,60.0,,0.1,False,10
+Bought on contract - fully paid,,808,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",2,cont,159.0,,0.197,False,13
+Bought outright,,800,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Secondary school (up to 16 years),,In full-time employment,"£40,000 to £49,999",1,env,93.0,,0.116,False,9
+Bought outright,,792,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,"Less than £10,000",None,cont,100.0,,0.126,False,16
+Bought outright,,360,Brand New,,Google (Pixel),,Male,,25 - 34,White,Undergraduate degree,,In full-time education,"£10,000 to £19,999",None,cont,40.0,,0.111,False,5
+Bought outright,,901,Brand New,,"Other, please specify",Samsung Note 10+,Male,,18 - 24,BAME,Master's degree,,In full-time education,Not sure,2,gov,130.0,,0.144,False,15
+Bought outright,,540,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,In full-time education,Not sure,None,env,100.0,,0.185,False,11
+Bought outright,,648,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,Not in employment,"£10,000 to £19,999",None,env,101.0,,0.156,False,9
+Bought outright,,501,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Secondary school (up to 16 years),,In full-time education,Not sure,None,gov,176.0,,0.351,False,11
+Bought outright,,669,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,45 - 54,BAME,Master's degree,,In full-time employment,"£30,000 to £39,999",2,cont,100.0,,0.149,False,10
+"Other, please specify",Gifted from family member,300,"Other, please specify","Second hand, gifted from family",Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time education,"£20,000 to £29,999",None,gov,50.0,,0.167,False,9
+Bought outright,,300,Brand New,,Samsung (Galaxy),,Male,,25 - 34,BAME,Doctoral degree,,Not in employment,"Less than £10,000",None,gov,51.0,,0.17,False,7
+Bought outright,,142,Brand New,,Samsung (Galaxy),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£10,000 to £19,999",1,cont,64.0,,0.451,False,6
+Bought outright,,350,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Undergraduate degree,,In full-time education,Not sure,None,cont,65.0,,0.186,False,12
+"Other, please specify",Bought on Contract -My Employer pays monthly ,489,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,env,21.0,,0.043,False,11
+Bought outright,,710,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,env,45.0,,0.063,False,16
+Bought on contract - fully paid,,600,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,Not in employment,"Less than £10,000",None,gov,204.0,,0.34,False,15
+Bought on contract - fully paid,,998,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Master's degree,,Not in employment,Prefer not to say,3,cont,0.0,Repairability is not a priority for me,0.0,False,13
+Bought outright,,746,Brand New,,Samsung (Galaxy),,Male,,25 - 34,BAME,Doctoral degree,,In full-time employment,"£10,000 to £19,999",None,gov,121.0,,0.162,False,11
+Bought outright,,251,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,In full-time education,"Less than £10,000",1,env,50.0,,0.199,False,6
+Bought outright,,703,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,gov,95.0,,0.135,False,11
+Bought outright,,99,Brand New,,"Other, please specify",Motorola,Male,,55 - 64,White,Doctoral degree,,In part-time employment,"£30,000 to £39,999",None,cont,10.0,,0.101,False,2
+Bought outright,,401,Brand New,,Samsung (Galaxy),,Female,,55 - 64,White,Doctoral degree,,In full-time employment,"£50,000 to £59,999",None,env,50.0,,0.125,False,8
+Bought outright,,725,Brand New,,Apple (iPhone),,Prefer not to say,,18 - 24,BAME,Undergraduate degree,,In full-time education,Not sure,None,cont,100.0,,0.138,False,12
+Bought on contract - fully paid,,300,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,Prefer not to say,None,env,55.0,,0.183,False,8
+Bought on contract - fully paid,,500,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,"£10,000 to £19,999",None,cont,80.0,,0.16,False,10
+Bought outright,,382,Brand New,,"Other, please specify","Crosscall (French Brand, Android)",Male,,18 - 24,White,Master's degree,,In full-time education,"£10,000 to £19,999",None,gov,100.0,,0.262,False,9
+Bought outright,,716,Brand New,,Apple (iPhone),,Female,,55 - 64,BAME,Master's degree,,In full-time employment,"£50,000 to £59,999",2,env,99.0,,0.138,False,13
+Bought outright,,1024,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Master's degree,,In full-time education,"Less than £10,000",None,gov,251.0,,0.245,False,16
+Bought outright,,584,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Doctoral degree,,In full-time employment,"£40,000 to £49,999",None,cont,100.0,,0.171,False,10
+Bought outright,,196,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,"Less than £10,000",None,gov,100.0,,0.51,False,9
+Bought outright,,280,Brand New,,"Other, please specify",Xiaomi,Male,,25 - 34,White,Undergraduate degree,,In full-time employment,"£60,000 to £69,999",1,env,140.0,,0.5,False,11
+Bought outright,,525,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Google (Pixel),,Female,,35 - 44,BAME,Secondary school (up to 16 years),,Not in employment,"Less than £10,000",None,gov,321.0,,0.611,False,8
+Bought outright,,1128,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,Prefer not to say,None,env,0.0,"Other, please specifyThe technology slows down over time e.g. processing speed and stuff which I don’t think is accounted for. Plus I can recycle my phone ",0.0,False,11
+Bought outright,,740,Brand New,,"Other, please specify",HUAWEI,Female,,45 - 54,BAME,Undergraduate degree,,Self employed,"£30,000 to £39,999",1,cont,74.0,,0.1,False,13
+Bought outright,,140,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Doctoral degree,,In full-time employment,"£60,000 to £69,999",1,cont,50.0,,0.357,False,9
+Bought outright,,701,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,Not sure,None,gov,233.0,,0.332,False,12
+Bought outright,,699,Brand New,,"Other, please specify",OnePlus,Male,,25 - 34,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,gov,350.0,,0.501,False,7
+Bought outright,,700,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,"Less than £10,000",None,cont,50.0,,0.071,False,11
+Bought outright,,205,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,Prefer not to say,None,env,51.0,,0.249,False,10
+Bought outright,,597,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,Not in employment,Not sure,3,gov,101.0,,0.169,False,13
+Bought outright,,1000,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In full-time education,"£50,000 to £59,999",None,env,150.0,,0.15,False,14
+Bought outright,,1008,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Undergraduate degree,,In full-time employment,"£60,000 to £69,999",None,gov,100.0,,0.099,False,6
+"Other, please specify",Old phone from family member ,501,"Other, please specify",Secondhand - family member ,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,Not sure,None,cont,151.0,,0.301,False,9
+Bought outright,,382,Brand New,,"Other, please specify",OPPO,Male,,45 - 54,BAME,Undergraduate degree,,In full-time employment,"£100,000 to £149,999",2,gov,20.0,,0.052,False,12
+Bought outright,,350,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Undergraduate degree,,Not in employment,"£20,000 to £29,999",None,cont,50.0,,0.143,False,14
+Bought outright,,521,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,env,50.0,,0.096,False,10
+"Other, please specify",Bought outright but over 2 years interest free,1100,Brand New,,Apple (iPhone),,Male,,45 - 54,White,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",2,cont,50.0,,0.045,False,13
+Bought outright,,680,Brand New,,Apple (iPhone),,Male,,55 - 64,White,Undergraduate degree,,In full-time employment,"£70,000 to £79,999",None,gov,200.0,,0.294,False,9
+Bought outright,,650,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,Not in employment,Not sure,None,gov,30.0,,0.046,False,8
+Bought outright,,351,Brand New,,Samsung (Galaxy),,Male,,18 - 24,BAME,Master's degree,,In full-time education,"Less than £10,000",None,env,102.0,,0.291,False,7
+Bought outright,,601,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,gov,100.0,,0.166,False,14
+Bought outright,,993,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,cont,156.0,,0.157,False,16
+Bought outright,,320,Brand New,,"Other, please specify",Nokia,Male,,Over 65,White,Undergraduate degree,,Not in employment,"£40,000 to £49,999",None,env,40.0,,0.125,False,7
+Bought outright,,253,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Male,,18 - 24,White,Master's degree,,In full-time education,"Less than £10,000",None,gov,105.0,,0.415,False,10
+Bought outright,,482,Brand New,,Samsung (Galaxy),,Male,,18 - 24,BAME,Undergraduate degree,,In part-time employment,"Less than £10,000",None,env,71.0,,0.147,False,14
+Bought outright,,568,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In part-time employment,"Less than £10,000",None,cont,200.0,,0.352,False,11
+Bought outright,,800,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,"£20,000 to £29,999",None,env,201.0,,0.251,False,7
+Bought outright,,199,Brand New,,"Other, please specify",Poco,Female,,45 - 54,White,Doctoral degree,,In full-time employment,Prefer not to say,3,gov,30.0,,0.151,False,11
+Bought outright,,411,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,In full-time employment,"£30,000 to £39,999",None,gov,51.0,,0.124,False,13
+Bought outright,,103,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Male,,55 - 64,White,Doctoral degree,,In full-time employment,"£50,000 to £59,999",1,env,52.0,,0.505,False,4
+Bought outright,,315,Secondhand - Private Seller (eg. ebay),,Samsung (Galaxy),,Male,,55 - 64,White,Doctoral degree,,In full-time employment,"£60,000 to £69,999",None,cont,21.0,,0.067,False,4
+Bought outright,,230,Brand New,,Samsung (Galaxy),,Female,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,Not in employment,"Less than £10,000",None,env,42.0,,0.183,False,9
+Bought outright,,501,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Female,,55 - 64,White,Doctoral degree,,In full-time employment,"£70,000 to £79,999",3,gov,100.0,,0.2,False,10
+"Other, please specify","Finance from Apple directly, pay monthly",830,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,In full-time education,"Less than £10,000",None,cont,103.0,,0.124,False,15
+Bought outright,,605,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,In full-time education,"Less than £10,000",None,gov,51.0,,0.084,False,8
+Bought on contract - fully paid,,1003,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,cont,252.0,,0.251,False,13
+Bought outright,,800,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,Not in employment,"Less than £10,000",None,env,50.0,,0.062,False,9
+Bought outright,,169,Brand New,,"Other, please specify",Xiaomi,Male,,25 - 34,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,cont,48.0,,0.284,False,10
+Bought outright,,758,Brand New,,"Other, please specify",OnePlus,Male,,18 - 24,BAME,Undergraduate degree,,In full-time employment,Prefer not to say,None,gov,101.0,,0.133,False,10
+Bought on contract - fully paid,,688,Secondhand - Manufacturer Refurbished (eg. Apple),,Samsung (Galaxy),,Non-binary / third gender,,Over 65,White,Primary school,,Not in employment,"£30,000 to £39,999",5 or more,env,13.0,,0.019,False,8
+Bought on contract - fully paid,,208,Brand New,,"Other, please specify",Huwawei,Female,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,cont,100.0,,0.481,False,15
+Bought outright,,823,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In full-time education,"£10,000 to £19,999",None,env,100.0,,0.122,False,11
+Bought outright,,310,Brand New,,Samsung (Galaxy),,Male,,45 - 54,White,Undergraduate degree,,In full-time employment,"£50,000 to £59,999",2,gov,0.0,Repairability is not a priority for me,0.0,False,8
+Bought outright,,995,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£50,000 to £59,999",None,cont,59.0,,0.059,False,11
+"Other, please specify",,245,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Doctoral degree,,In full-time employment,"£50,000 to £59,999",2,env,100.0,,0.408,False,5
+Bought outright,,303,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,gov,103.0,,0.34,False,13
+Bought on contract - fully paid,,900,Brand New,,Apple (iPhone),,Male,,18 - 24,Prefer not to say,Undergraduate degree,,Not in employment,Prefer not to say,None,env,177.0,,0.197,False,12
+Bought outright,,988,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,Prefer not to say,None,gov,14.0,,0.014,False,12
+Bought outright,,503,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,Not in employment,Prefer not to say,None,env,51.0,,0.101,False,7
+Bought outright,,540,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time education,"£10,000 to £19,999",None,cont,55.0,,0.102,False,16
+Bought on contract - fully paid,,0,Brand New,,Samsung (Galaxy),,Female,,45 - 54,White,Undergraduate degree,,In full-time employment,"£50,000 to £59,999",None,env,51.0,,0.0,False,5
+Bought on contract - fully paid,,245,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time education,"£30,000 to £39,999",None,cont,50.0,,0.204,False,11
+Bought on contract - fully paid,,930,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,Not sure,None,gov,116.0,,0.125,False,6
+Bought outright,,286,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,Self employed,"£30,000 to £39,999",None,cont,101.0,,0.353,False,9
+Bought outright,,373,Brand New,,Samsung (Galaxy),,Male,,35 - 44,BAME,Doctoral degree,,Self employed,"£50,000 to £59,999",None,env,49.0,,0.131,False,7
+Bought outright,,400,Brand New,,Apple (iPhone),,Female,,45 - 54,BAME,Master's degree,,In part-time employment,"£30,000 to £39,999",2,gov,106.0,,0.265,False,9
+Bought outright,,605,Brand New,,"Other, please specify",One Plus,Male,,35 - 44,BAME,Master's degree,,In full-time employment,"£80,000 to £89,999",None,gov,65.0,,0.107,False,15
+Bought on contract - fully paid,,325,Brand New,,Apple (iPhone),,Male,,55 - 64,White,Master's degree,,In full-time employment,Not sure,None,cont,120.0,,0.369,False,9
+Bought outright,,845,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£40,000 to £49,999",1,env,221.0,,0.262,False,16
+Bought outright,,800,Brand New,,Apple (iPhone),,Male,,25 - 34,BAME,Doctoral degree,,In full-time education,"Less than £10,000",None,gov,200.0,,0.25,False,11
+Bought outright,,815,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,env,107.0,,0.131,False,14
+Bought on contract - fully paid,,605,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,cont,100.0,,0.165,False,7
+Bought outright,,659,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,gov,152.0,,0.231,False,10
+Bought outright,,720,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,Not in employment,Prefer not to say,None,cont,100.0,,0.139,False,12
+Bought outright,,51,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,25 - 34,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,cont,20.0,,0.392,False,14
+Bought on contract - fully paid,,638,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,env,61.0,,0.096,False,13
+Bought outright,,449,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In part-time employment,"Less than £10,000",None,gov,51.0,,0.114,False,14
+Bought outright,,162,Brand New,,Apple (iPhone),,Female,,45 - 54,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,"£20,000 to £29,999",1,gov,37.0,,0.228,False,16
+"Other, please specify",Free device with 24 month contract,0,Brand New,,"Other, please specify",Sony,Female,,45 - 54,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,"£30,000 to £39,999",None,env,50.0,,0.0,False,5
+Bought on contract - fully paid,,300,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",None,cont,50.0,,0.167,False,7
+Bought on contract - fully paid,,800,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Undergraduate degree,,In full-time employment,"£90,000 to £99,999",None,env,215.0,,0.269,False,14
+Bought outright,,163,Brand New,,"Other, please specify",Motorola Moto G5,Male,,45 - 54,White,Master's degree,,Self employed,"£80,000 to £89,999",None,gov,40.0,,0.245,False,6
+"Other, please specify",Hand-me-down,406,"Other, please specify",Given by partner,Samsung (Galaxy),,Female,,35 - 44,White,Master's degree,,Self employed,Prefer not to say,1,cont,155.0,,0.382,False,8
+Bought outright,,851,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,"Other, please specify",Completing doctorate,In full-time education,"£10,000 to £19,999",None,env,100.0,,0.118,False,8
+Bought outright,,195,Brand New,,"Other, please specify",motorola,Male,,55 - 64,White,Master's degree,,Self employed,"£30,000 to £39,999",None,gov,57.0,,0.292,False,9
+Bought outright,,204,Brand New,,"Other, please specify",Mi A2 Lite,Male,,35 - 44,White,Master's degree,,In full-time employment,"£100,000 to £149,999",1,gov,101.0,,0.495,False,4
+Bought outright,,307,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£50,000 to £59,999",None,cont,20.0,,0.065,False,7
+"Other, please specify",Supplied by employer ,0,Brand New,,Apple (iPhone),,Male,,35 - 44,White,Doctoral degree,,In full-time employment,"£60,000 to £69,999",1,cont,100.0,,0.0,False,6
+Bought outright,,80,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,gov,44.0,,0.55,False,12
+Bought outright,,270,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Female,,45 - 54,White,Master's degree,,In part-time employment,"£40,000 to £49,999",2,env,100.0,,0.37,False,12
+Bought outright,,665,Brand New,,"Other, please specify",Sony,Female,,25 - 34,BAME,Master's degree,,In full-time employment,"£150,000 or more",2,gov,155.0,,0.233,False,11
+Bought on contract - fully paid,,650,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£60,000 to £69,999",None,cont,100.0,,0.154,False,12
+"Other, please specify",Second hand - old phone of a friend,0,"Other, please specify",I did not purchase my phone,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,env,201.0,,0.0,False,9
+Bought outright,,701,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,env,60.0,,0.086,False,9
+Bought outright,,101,Secondhand - Private Seller (eg. ebay),,"Other, please specify",Huawei ,Male,,25 - 34,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,cont,40.0,,0.396,False,13
+Bought outright,,491,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£50,000 to £59,999",None,gov,45.0,,0.092,False,2
+Bought outright,,180,Brand New,,"Other, please specify",honor 7x,Male,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,"£10,000 to £19,999",None,cont,75.0,,0.417,False,6
+Bought outright,,243,Brand New,,Apple (iPhone),,Female,,Over 65,White,Master's degree,,In part-time employment,"£20,000 to £29,999",1,env,304.0,,1.251,False,13
+"Other, please specify","Yes. I own my dad's old phone (i.e. he purchased a new one, and I kept his old one).",0,"Other, please specify",Secondhand - family member,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,cont,80.0,,0.0,False,13
+Bought outright,,580,Brand New,,Samsung (Galaxy),,Female,,25 - 34,BAME,Master's degree,,In part-time employment,Prefer not to say,None,env,150.0,,0.259,False,16
+Bought outright,,300,Brand New,,"Other, please specify",Huawei,Female,,25 - 34,White,Master's degree,,In full-time employment,"£10,000 to £19,999",1,gov,50.0,,0.167,False,8
+Bought outright,,1075,Brand New,,Apple (iPhone),,Female,,45 - 54,White,Master's degree,,In full-time employment,"£150,000 or more",1,gov,500.0,,0.465,False,9
+Bought outright,,127,Brand New,,"Other, please specify",One plus,Female,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,cont,49.0,,0.386,False,5
+Bought outright,,50,"Other, please specify",My daughter upgraded to an iPhone and gave me her samsung,Samsung (Galaxy),,Female,,55 - 64,White,"Other, please specify",PGCE,Self employed,"£20,000 to £29,999",1,env,51.0,,1.02,False,8
+Bought outright,,320,Brand New,,Samsung (Galaxy),,Female,,55 - 64,White,"Other, please specify",Professional qualification postgraduate,In part-time employment,Prefer not to say,None,cont,50.0,,0.156,False,9
+Bought outright,,201,Brand New,,Samsung (Galaxy),,Female,,55 - 64,White,Undergraduate degree,,In full-time employment,"£70,000 to £79,999",None,gov,52.0,,0.259,False,5
+Bought outright,,353,Brand New,,Samsung (Galaxy),,Female,,18 - 24,BAME,Master's degree,,In full-time employment,"£20,000 to £29,999",None,env,100.0,,0.283,False,7
+Bought on contract - fully paid,,702,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,env,54.0,,0.077,False,6
+Bought outright,,907,Brand New,,Apple (iPhone),,Non-binary / third gender,,Over 65,BAME,Doctoral degree,,In full-time employment,"£90,000 to £99,999",3,cont,51.0,,0.056,False,7
+Bought on contract - fully paid,,81,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time employment,"£10,000 to £19,999",None,env,32.0,,0.395,False,15
+Bought on contract - fully paid,,175,Brand New,,"Other, please specify",HTC,Male,,55 - 64,White,Doctoral degree,,In full-time employment,"£30,000 to £39,999",None,cont,50.0,,0.286,False,3
+Bought outright,,386,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£50,000 to £59,999",None,gov,99.0,,0.256,False,12
+Bought on contract - fully paid,,150,Brand New,,Samsung (Galaxy),,Female,,35 - 44,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,env,50.0,,0.333,False,8
+Bought outright,,362,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Undergraduate degree,,In part-time employment,"£20,000 to £29,999",None,cont,142.0,,0.392,False,14
+Bought on contract - fully paid,,699,Brand New,,Apple (iPhone),,Male,,45 - 54,White,Master's degree,,In full-time employment,"£40,000 to £49,999",3,gov,40.0,,0.057,False,13
+Bought outright,,699,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time education,Not sure,None,cont,0.0,Repairability is not a priority for me,0.0,False,7
+Bought outright,,751,Brand New,,"Other, please specify",Huawei ,Female,,18 - 24,BAME,Undergraduate degree,,Not in employment,Not sure,None,gov,100.0,,0.133,False,14
+Bought outright,,177,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Undergraduate degree,,In full-time employment,"£70,000 to £79,999",None,env,230.0,,1.299,False,6
+Bought outright,,281,Brand New,,"Other, please specify",Xiaomi,Female,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,cont,80.0,,0.285,False,7
+Bought outright,,300,Brand New,,Samsung (Galaxy),,Female,,35 - 44,White,Doctoral degree,,In full-time employment,"£20,000 to £29,999",2,env,50.0,,0.167,False,9
+Bought outright,,126,Brand New,,"Other, please specify",Sony,Male,,18 - 24,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,gov,40.0,,0.317,False,9
+Bought on contract - fully paid,,795,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,env,108.0,,0.136,False,13
+Bought outright,,978,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time education,Not sure,None,gov,280.0,,0.286,False,15
+Bought outright,,304,Brand New,,Samsung (Galaxy),,Male,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,"£30,000 to £39,999",None,cont,76.0,,0.25,False,6
+Bought outright,,1000,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time education,"£10,000 to £19,999",None,gov,201.0,,0.201,False,14
+Bought outright,,500,Brand New,,Samsung (Galaxy),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,cont,100.0,,0.2,False,14
+Bought outright,,399,Brand New,,"Other, please specify",Huawei,Male,,25 - 34,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,env,151.0,,0.378,False,8
+Bought outright,,800,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Male,,25 - 34,White,Doctoral degree,,In full-time employment,"£30,000 to £39,999",None,gov,103.0,,0.129,False,4
+Bought outright,,519,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£50,000 to £59,999",None,cont,155.0,,0.299,False,10
+Bought outright,,1100,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,env,149.0,,0.135,False,10
+Bought outright,,592,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,gov,172.0,,0.291,False,10
+Bought outright,,503,Brand New,,Apple (iPhone),,Female,,55 - 64,White,Undergraduate degree,,Not in employment,"£40,000 to £49,999",None,cont,100.0,,0.199,False,9
+Bought outright,,700,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Master's degree,,In full-time employment,"£40,000 to £49,999",None,gov,101.0,,0.144,False,10
+Bought outright,,205,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Samsung (Galaxy),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time education,"Less than £10,000",None,env,53.0,,0.259,False,12
+Bought on contract - fully paid,,604,Brand New,,"Other, please specify",Huawei ,Female,,25 - 34,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,env,101.0,,0.167,False,5
+Bought outright,,154,Brand New,,Samsung (Galaxy),,Female,,55 - 64,White,Doctoral degree,,In part-time employment,"£40,000 to £49,999",2,cont,50.0,,0.325,False,10
+Bought outright,,1152,Brand New,,Apple (iPhone),,Male,,25 - 34,BAME,Master's degree,,In part-time employment,"£20,000 to £29,999",None,gov,150.0,,0.13,False,12
+Bought outright,,549,Brand New,,Google (Pixel),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£50,000 to £59,999",None,env,197.0,,0.359,False,6
+Bought outright,,151,Brand New,,"Other, please specify",Motorola (android),Female,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,"Less than £10,000",None,cont,100.0,,0.662,False,6
+Bought outright,,1013,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Doctoral degree,,In full-time education,"£10,000 to £19,999",None,cont,299.0,,0.295,False,16
+Bought on contract - fully paid,,1319,Brand New,,Apple (iPhone),,Male,,25 - 34,BAME,Doctoral degree,,In full-time employment,"£50,000 to £59,999",2,env,51.0,,0.039,False,13
+"Other, please specify",Company phone,621,Brand New,,Apple (iPhone),,Male,,45 - 54,White,Master's degree,,In full-time employment,"£150,000 or more",3,gov,146.0,,0.235,False,8
+Bought outright,,750,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,gov,149.0,,0.199,False,8
+Bought outright,,756,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time education,"£20,000 to £29,999",1,cont,400.0,,0.529,False,14
+Bought outright,,197,Brand New,,"Other, please specify",Nokia,Female,,Over 65,White,Master's degree,,Not in employment,"£10,000 to £19,999",None,env,50.0,,0.254,False,8
+"Other, please specify","Bought mobile, paying for sim only ",10,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,gov,100.0,,10.0,False,12
+Bought outright,,405,Brand New,,Samsung (Galaxy),,Prefer not to say,,25 - 34,BAME,Master's degree,,Not in employment,"Less than £10,000",None,env,20.0,,0.049,False,10
+Bought outright,,251,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Samsung (Galaxy),,Female,,55 - 64,White,Doctoral degree,,In full-time employment,"£40,000 to £49,999",None,env,100.0,,0.398,False,5
+Bought outright,,601,Brand New,,Google (Pixel),,Male,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,cont,150.0,,0.25,False,10
+Bought outright,,459,Brand New,,Apple (iPhone),,Male,,55 - 64,White,Master's degree,,In part-time employment,"£40,000 to £49,999",1,cont,115.0,,0.251,False,12
+Bought outright,,163,Secondhand - Manufacturer Refurbished (eg. Apple),,Samsung (Galaxy),,Male,,45 - 54,BAME,Master's degree,,Not in employment,Prefer not to say,2,env,46.0,,0.282,False,15
+Bought outright,,395,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£50,000 to £59,999",None,gov,200.0,,0.506,False,9
+Bought outright,,710,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,gov,80.0,,0.113,False,13
+"Other, please specify",Combination of above - phones for kids as well,211,Brand New,,Samsung (Galaxy),,Female,,45 - 54,White,Master's degree,,In part-time employment,"£40,000 to £49,999",2,env,29.0,,0.137,False,8
+Bought outright,,32,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,"£20,000 to £29,999",None,cont,22.0,,0.688,False,6
+Bought outright,,400,Brand New,,Samsung (Galaxy),,Non-binary / third gender,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,Not in employment,"Less than £10,000",None,env,0.0,Repairability is not a priority for me,0.0,False,13
+Bought outright,,791,Brand New,,Samsung (Galaxy),,Female,,25 - 34,BAME,Master's degree,,In full-time employment,"£40,000 to £49,999",None,gov,101.0,,0.128,False,14
+Bought outright,,500,Brand New,,Samsung (Galaxy),,Female,,25 - 34,BAME,Master's degree,,In full-time employment,"£70,000 to £79,999",None,cont,99.0,,0.198,False,14
+Bought outright,,700,Brand New,,"Other, please specify",Sony Xperia 5 II,Male,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,"£100,000 to £149,999",None,cont,175.0,,0.25,False,11
+Bought outright,,800,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,"Other, please specify",Bachelor degree,In full-time employment,Prefer not to say,None,gov,101.0,,0.126,False,9
+Bought outright,,129,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,"Other, please specify",Sony,Female,,25 - 34,White,Master's degree,,In full-time education,"£10,000 to £19,999",None,env,50.0,,0.388,False,3
+Bought outright,,514,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,Prefer not to say,None,cont,98.0,,0.191,False,10
+Bought outright,,703,Brand New,,Samsung (Galaxy),,Male,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time education,Prefer not to say,None,gov,299.0,,0.425,False,8
+Bought outright,,175,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,cont,47.0,,0.269,False,14
+Bought outright,,420,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,Prefer not to say,None,gov,105.0,,0.25,False,8
+Bought outright,,500,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,env,100.0,,0.2,False,11
+Bought outright,,135,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,env,111.0,,0.822,False,10
+Bought outright,,601,Brand New,,Google (Pixel),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",None,gov,140.0,,0.233,False,8
+Bought outright,,500,Brand New,,Samsung (Galaxy),,Female,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,cont,50.0,,0.1,False,10
+Bought outright,,601,Brand New,,Samsung (Galaxy),,Male,,18 - 24,White,Master's degree,,In full-time education,"Less than £10,000",None,cont,175.0,,0.291,False,12
+Bought outright,,1000,Brand New,,Apple (iPhone),,Male,,45 - 54,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,Prefer not to say,3,gov,51.0,,0.051,False,10
+Bought outright,,1003,Brand New,,Apple (iPhone),,Male,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,"£30,000 to £39,999",None,env,109.0,,0.109,False,9
+Bought on contract - fully paid,,1049,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,"£20,000 to £29,999",None,cont,100.0,,0.095,False,14
+Bought outright,,201,Brand New,,"Other, please specify",Realmi,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£50,000 to £59,999",1,gov,154.0,,0.766,False,11
+Bought on contract - fully paid,,300,Brand New,,Samsung (Galaxy),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£30,000 to £39,999",2,env,50.0,,0.167,False,14
+Bought outright,,378,Brand New,,"Other, please specify",Oneplus7,Female,,35 - 44,BAME,Master's degree,,Not in employment,Prefer not to say,2,env,50.0,,0.132,False,12
+Bought on contract - fully paid,,592,Brand New,,Samsung (Galaxy),,Female,,35 - 44,BAME,Master's degree,,In part-time employment,"Less than £10,000",2,cont,55.0,,0.093,False,13
+Bought outright,,382,Secondhand - Manufacturer Refurbished (eg. Apple),,Apple (iPhone),,Male,,Under 18,BAME,Secondary school (up to 16 years),,In full-time education,"Less than £10,000",None,gov,55.0,,0.144,False,10
+Bought on contract - fully paid,,497,Secondhand - Private Seller (eg. ebay),,Samsung (Galaxy),,Prefer not to say,,35 - 44,BAME,Secondary school (up to 16 years),,In full-time employment,"£20,000 to £29,999",4,gov,200.0,,0.402,False,7
+Bought outright,,540,Secondhand - Manufacturer Refurbished (eg. Apple),,Google (Pixel),,Female,,55 - 64,BAME,Primary school,,In full-time employment,"£20,000 to £29,999",None,env,242.0,,0.448,False,10
+Bought outright,,605,Brand New,,Apple (iPhone),,Male,,45 - 54,BAME,Undergraduate degree,,In full-time employment,"£90,000 to £99,999",3,cont,57.0,,0.094,False,15
+Bought outright,,394,Brand New,,Samsung (Galaxy),,Male,,35 - 44,BAME,Master's degree,,In full-time employment,"£60,000 to £69,999",None,env,72.0,,0.183,False,10
+Bought on contract - fully paid,,773,Brand New,,Apple (iPhone),,Female,,45 - 54,BAME,Master's degree,,In part-time employment,"£10,000 to £19,999",2,gov,231.0,,0.299,False,16
+Bought outright,,530,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,"Further education (16+, A-Levels, BTEC, etc.)",,In part-time employment,"£10,000 to £19,999",None,cont,106.0,,0.2,False,16
+Bought outright,,843,Brand New,,Apple (iPhone),,Male,,35 - 44,BAME,Master's degree,,Self employed,"£100,000 to £149,999",1,gov,201.0,,0.238,False,13
+Bought outright,,1065,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,Not sure,4,env,248.0,,0.233,False,16
+Bought outright,,795,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",1,cont,69.0,,0.087,False,14
+Bought outright,,719,Brand New,,Samsung (Galaxy),,Male,,35 - 44,White,Master's degree,,Self employed,"£50,000 to £59,999",2,cont,74.0,,0.103,False,15
+Bought outright,,183,Brand New,,Samsung (Galaxy),,Prefer not to say,,Under 18,BAME,Primary school,,Not in employment,Not sure,4,env,114.0,,0.623,False,10
+Bought on contract - fully paid,,387,Secondhand - Manufacturer Refurbished (eg. Apple),,Google (Pixel),,Prefer not to say,,35 - 44,BAME,Doctoral degree,,In full-time education,"£20,000 to £29,999",3,gov,215.0,,0.556,False,11
+Bought outright,,888,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Non-binary / third gender,,18 - 24,BAME,Primary school,,In full-time education,"£10,000 to £19,999",None,cont,418.0,,0.471,False,16
+Bought on contract - fully paid,,607,Secondhand - Private Seller (eg. ebay),,Google (Pixel),,Male,,25 - 34,White,Primary school,,Self employed,"£150,000 or more",None,gov,190.0,,0.313,False,6
+Bought on contract - fully paid,,396,Brand New,,Apple (iPhone),,Male,,Under 18,White,Secondary school (up to 16 years),,In full-time education,"Less than £10,000",None,env,0.0,Repairability is not a priority for me,0.0,False,12
+Bought outright,,200,Brand New,,"Other, please specify",Motorola ,Male,,Under 18,BAME,Primary school,,Not in employment,"Less than £10,000",None,gov,50.0,,0.25,False,9
+Bought outright,,188,Brand New,,"Other, please specify",A 50,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£10,000 to £19,999",None,cont,123.0,,0.654,False,15
+Bought outright,,600,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£30,000 to £39,999",2,env,149.0,,0.248,False,12
+Bought outright,,857,Brand New,,Apple (iPhone),,Prefer not to say,,35 - 44,BAME,Prefer not to say,,Self employed,"£30,000 to £39,999",2,cont,80.0,,0.093,False,14
+Bought on contract - fully paid,,715,Brand New,,Apple (iPhone),,Prefer not to say,,35 - 44,BAME,Master's degree,,In part-time employment,Prefer not to say,2,gov,43.0,,0.06,False,9
+Bought outright,,980,Brand New,,Samsung (Galaxy),,Female,,45 - 54,BAME,Master's degree,,In part-time employment,Prefer not to say,2,cont,104.0,,0.106,False,12
+Bought on contract - fully paid,,505,Brand New,,Apple (iPhone),,Female,,55 - 64,White,Undergraduate degree,,In full-time education,"£10,000 to £19,999",None,env,149.0,,0.295,False,11
+Bought outright,,235,Brand New,,"Other, please specify",Moto,Female,,35 - 44,BAME,Master's degree,,Not in employment,Prefer not to say,3,gov,30.0,,0.128,False,13
+Bought outright,,159,Brand New,,"Other, please specify",Moto g,Female,,55 - 64,White,"Further education (16+, A-Levels, BTEC, etc.)",,Not in employment,Prefer not to say,2,cont,40.0,,0.252,False,9
+Bought on contract - fully paid,,764,Secondhand - Manufacturer Refurbished (eg. Apple),,Samsung (Galaxy),,Non-binary / third gender,,55 - 64,White,"Further education (16+, A-Levels, BTEC, etc.)",,Self employed,"£30,000 to £39,999",4,gov,57.0,,0.075,False,5
+Bought outright,,1270,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,Not in employment,Prefer not to say,2,env,0.0,Repairability is not a priority for me,0.0,False,14
+Bought outright,,726,Brand New,,Apple (iPhone),,Female,,45 - 54,BAME,Master's degree,,In full-time employment,Prefer not to say,2,env,19.0,,0.026,False,8
+Bought outright,,256,Brand New,,Samsung (Galaxy),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£50,000 to £59,999",2,cont,40.0,,0.156,False,14
+Bought outright,,295,Brand New,,Samsung (Galaxy),,Male,,18 - 24,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,gov,34.0,,0.115,False,6
+Bought on contract - fully paid,,168,Brand New,,Samsung (Galaxy),,Female,,45 - 54,BAME,Master's degree,,In full-time employment,"£40,000 to £49,999",2,gov,25.0,,0.149,False,14
+Bought outright,,972,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£80,000 to £89,999",1,cont,124.0,,0.128,False,13
+Bought outright,,689,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Undergraduate degree,,In full-time employment,"£40,000 to £49,999",2,env,500.0,,0.726,False,16
+Bought outright,,1119,Brand New,,Apple (iPhone),,Female,,18 - 24,BAME,Master's degree,,In full-time employment,"£30,000 to £39,999",None,cont,144.0,,0.129,False,10
+Bought outright,,1024,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,Prefer not to say,2,gov,241.0,,0.235,False,13
+"Other, please specify",,669,Brand New,,Apple (iPhone),,Female,,35 - 44,BAME,Master's degree,,In full-time employment,"£30,000 to £39,999",2,env,131.0,,0.196,False,16
+Bought outright,,650,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Doctoral degree,,In full-time employment,"£60,000 to £69,999",1,cont,100.0,,0.154,False,10
+Bought outright,,554,Brand New,,Apple (iPhone),,Male,,35 - 44,BAME,Doctoral degree,,Self employed,"£30,000 to £39,999",3,env,100.0,,0.181,False,13
+Bought outright,,201,Brand New,,"Other, please specify",Motorola G5,Female,,25 - 34,White,Master's degree,,In full-time employment,"£10,000 to £19,999",None,gov,100.0,,0.498,False,8
+Bought outright,,600,Brand New,,Apple (iPhone),,Female,,45 - 54,White,Master's degree,,Self employed,"£30,000 to £39,999",1,gov,51.0,,0.085,False,10
+Bought outright,,482,Brand New,,"Other, please specify",Huawei,Female,,45 - 54,Prefer not to say,Master's degree,,In part-time employment,"£10,000 to £19,999",2,env,78.0,,0.162,False,9
+"Other, please specify",Purchased separately to contract,1010,Brand New,,Apple (iPhone),,Male,,35 - 44,White,Master's degree,,In full-time education,"£20,000 to £29,999",1,cont,55.0,,0.054,False,10
+Bought outright,,800,Brand New,,Samsung (Galaxy),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,env,180.0,,0.225,False,9
+Bought outright,,634,Brand New,,"Other, please specify",Oneplus 8 Pro,Male,,18 - 24,White,Undergraduate degree,,Not in employment,"Less than £10,000",None,cont,81.0,,0.128,False,16
+Bought on contract - fully paid,,172,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,gov,116.0,,0.674,False,11
+"Other, please specify",Company phone,1003,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,env,151.0,,0.151,False,8
+Bought on contract - fully paid,,737,Brand New,,Samsung (Galaxy),,Female,,35 - 44,BAME,Master's degree,,Self employed,Not sure,2,gov,198.0,,0.269,False,16
+Bought outright,,243,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Male,,18 - 24,White,Master's degree,,In full-time education,Not sure,None,cont,113.0,,0.465,False,10
+Bought outright,,1008,Brand New,,Apple (iPhone),,Male,,55 - 64,White,Master's degree,,In part-time employment,"£80,000 to £89,999",2,env,370.0,,0.367,False,7
+Bought outright,,481,Brand New,,Apple (iPhone),,Male,,18 - 24,White,"Further education (16+, A-Levels, BTEC, etc.)",,In full-time employment,"£50,000 to £59,999",None,cont,51.0,,0.106,False,12
+Bought outright,,702,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,gov,100.0,,0.142,False,11
+"Other, please specify",Renting my phone ,31,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,gov,150.0,,4.839,False,12
+Bought outright,,401,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time employment,Prefer not to say,None,cont,40.0,,0.1,False,10
+Bought outright,,650,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time education,"£10,000 to £19,999",None,env,40.0,,0.062,False,8
+Bought outright,,65,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,55 - 64,White,"Further education (16+, A-Levels, BTEC, etc.)",,In part-time employment,"£10,000 to £19,999",None,env,81.0,,1.246,False,11
+Bought on contract - fully paid,,270,Brand New,,Samsung (Galaxy),,Male,,55 - 64,White,Secondary school (up to 16 years),,In full-time employment,"£20,000 to £29,999",None,cont,106.0,,0.393,False,11
+Bought outright,,351,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In full-time employment,"£20,000 to £29,999",None,gov,76.0,,0.217,False,9
+Bought outright,,741,Brand New,,Apple (iPhone),,Male,,18 - 24,BAME,Undergraduate degree,,In part-time employment,"£20,000 to £29,999",None,gov,93.0,,0.126,False,15
+Bought outright,,253,"Secondhand - Third-party Retailer Refurbished (eg. CEX, BackMarket, GiffGaff)",,Apple (iPhone),,Male,,18 - 24,White,Master's degree,,In full-time employment,"£30,000 to £39,999",None,env,100.0,,0.395,False,8
+Bought outright,,1000,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Doctoral degree,,In full-time employment,"£40,000 to £49,999",None,cont,100.0,,0.1,False,15
+Bought outright,,154,Brand New,,"Other, please specify",Motorola ,Male,,25 - 34,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,gov,70.0,,0.455,False,6
+Bought on contract - fully paid,,555,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,env,99.0,,0.178,False,10
+Bought outright,,854,Brand New,,Apple (iPhone),,Female,,18 - 24,White,Undergraduate degree,,In full-time education,"Less than £10,000",None,cont,40.0,,0.047,False,13
+Bought outright,,761,Brand New,,Samsung (Galaxy),,Male,,18 - 24,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,gov,20.0,,0.026,False,8
+Bought outright,,303,Secondhand - Private Seller (eg. ebay),,Apple (iPhone),,Female,,25 - 34,White,Master's degree,,In full-time employment,"£20,000 to £29,999",None,env,201.0,,0.663,False,9
+Bought outright,,1003,Brand New,,Apple (iPhone),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£50,000 to £59,999",None,cont,100.0,,0.1,False,13
+Bought outright,,399,Brand New,,Apple (iPhone),,Female,,25 - 34,White,Prefer not to say,,In full-time employment,Prefer not to say,None,cont,60.0,,0.15,False,10
+Bought outright,,681,Brand New,,Samsung (Galaxy),,Female,,25 - 34,BAME,Doctoral degree,,In full-time employment,"£40,000 to £49,999",1,gov,84.0,,0.123,False,11
+Bought outright,,584,Brand New,,Apple (iPhone),,Male,,18 - 24,White,Undergraduate degree,,In full-time employment,"£30,000 to £39,999",None,cont,201.0,,0.344,False,9
+Bought outright,,215,Brand New,,"Other, please specify",Xiaomi Mi9 SE,Male,,25 - 34,White,Master's degree,,Not in employment,"£20,000 to £29,999",None,cont,106.0,,0.493,False,6
+Bought outright,,199,Brand New,,"Other, please specify",Moto g7 power,Male,,55 - 64,White,Master's degree,,In full-time employment,"£70,000 to £79,999",None,cont,25.0,,0.126,False,8
+Bought outright,,601,Brand New,,Apple (iPhone),,Female,,25 - 34,BAME,Master's degree,,In full-time education,"Less than £10,000",None,cont,151.0,,0.251,False,16
+Bought outright,,454,Secondhand - Manufacturer Refurbished (eg. Apple),,Samsung (Galaxy),,Female,,55 - 64,White,Doctoral degree,,In full-time employment,"£60,000 to £69,999",2,cont,78.0,,0.172,False,13
+Bought outright,,549,Brand New,,Samsung (Galaxy),,Male,,25 - 34,White,Master's degree,,In full-time employment,"£40,000 to £49,999",None,cont,0.0,"Other, please specifyPhones should be made repairable or more durable ",0.0,False,15
+Bought on contract - fully paid,,676,Secondhand - Manufacturer Refurbished (eg. Apple),,Samsung (Galaxy),,Female,,35 - 44,BAME,Undergraduate degree,,Self employed,"£20,000 to £29,999",None,cont,122.0,,0.18,False,10
+Bought outright,,348,Brand New,,"Other, please specify",One plus,Female,,35 - 44,White,Doctoral degree,,In full-time employment,"£80,000 to £89,999",1,cont,149.0,,0.428,False,10
+Bought on contract - fully paid,,806,Brand New,,Apple (iPhone),,Female,,45 - 54,White,Master's degree,,In full-time employment,"£100,000 to £149,999",None,cont,151.0,,0.187,False,13
+Bought outright,,145,Brand New,,"Other, please specify",Xiaomi,Male,,Under 18,BAME,Secondary school (up to 16 years),,Not in employment,Prefer not to say,None,cont,50.0,,0.345,False,10

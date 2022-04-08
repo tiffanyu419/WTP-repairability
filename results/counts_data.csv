@@ -1,0 +1,21 @@
+category,subcategory,counts
+Finished survey,True,385
+Finished survey,False,44
+Phone ownership,Bought outright,262
+Phone ownership,Bought on contract - still paying,72
+Phone ownership,Bought on contract - fully paid,56
+Phone ownership,"Other, please specify",21
+Ethnicity - categorised,White,172
+Ethnicity - categorised,BAME,131
+Ethnicity - categorised,Prefer not to say,2
+Age - categorised,18 - 24,110
+Age - categorised,25 - 34,89
+Age - categorised,35 - 44,37
+Age - categorised,55 - 64,32
+Age - categorised,45 - 54,27
+Age - categorised,Over 65,5
+Age - categorised,Under 18,5
+Gender - categorised,Female,164
+Gender - categorised,Male,129
+Gender - categorised,Prefer not to say,7
+Gender - categorised,Non-binary / third gender,5
